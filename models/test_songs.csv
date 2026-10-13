@@ -1,0 +1,1005 @@
+SongId,Artist,Track,ArtistScore,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Label,Year,Month,Group,Dated
+2,glad,blessed assurance,0,0.24,0.222,2,-12.885,1,0.0299,0.672,0.0,0.123,0.362,93.539,0,,,glad,False
+6,trey songz,neighbors know my name,1,0.663,0.693,7,-5.776,0,0.0635,0.0379,0.0,0.162,0.391,120.026,1,2009.0,8.0,trey songz,True
+8,maurane,manies manigances,0,0.773,0.839,2,-7.93,1,0.0512,0.296,0.0,0.233,0.898,130.996,0,1995.0,1.0,maurane,True
+10,tyler collins,it doesnt matter,0,0.632,0.89,1,-8.21,1,0.0745,0.128,2.66e-06,0.0838,0.763,165.313,1,,,tyler collins,False
+12,a different breed of killer,the cleansing apparatus,0,0.514,0.967,3,-5.511,0,0.138,0.000869,0.329,0.247,0.299,107.507,0,2008.0,4.0,a different breed of killer,True
+17,snow,"girl, ive been hurt",0,0.668,0.649,1,-11.821,0,0.0373,0.000272,0.0,0.0789,0.471,90.95,1,,,snow,False
+23,dixie chicks,cold day in july,1,0.574,0.368,7,-10.644,1,0.0271,0.0163,2.12e-05,0.0746,0.296,129.457,1,1999.0,8.0,dixie chicks,True
+24,boards of canada,happy cycling,0,0.913,0.429,5,-13.764,0,0.133,0.00629,0.868,0.0791,0.428,100.01,0,1998.0,4.0,boards of canada,True
+26,kanye west / adam levine,heard em say,0,0.736,0.702,7,-8.437,0,0.181,0.055,0.0394,0.124,0.569,94.857,0,2005.0,9.0,kanye west,True
+32,darwin hobbs,praz him (broken album version),0,0.78,0.893,1,-4.725,1,0.156,0.0405,0.0,0.381,0.797,103.037,0,2003.0,1.0,darwin hobbs,True
+42,epmd,crossover,0,0.815,0.627,10,-10.438,0,0.275,0.0301,0.000144,0.148,0.644,101.437,1,1992.0,7.0,epmd,True
+45,jimmy page,wailing sounds,0,0.397,0.841,0,-8.634,1,0.0629,0.519,0.00731,0.442,0.499,80.821,0,,,jimmy page,False
+50,kathy troccoli,never my love,1,0.38,0.354,7,-10.902,1,0.0322,0.588,2.71e-06,0.0661,0.207,169.426,0,1994.0,6.0,kathy troccoli,True
+53,kanye west,school spirit skit 2,0,0.716,0.308,5,-12.629,1,0.925,0.334,0.0,0.215,0.83,128.412,0,2004.0,2.0,kanye west,True
+55,irma thomas,hold me while i cry,0,0.61,0.237,10,-13.617,1,0.0315,0.546,2.07e-06,0.19,0.0744,75.278,0,1997.0,1.0,irma thomas,True
+56,justin bieber,one less lonely girl,0,0.577,0.779,4,-4.404,1,0.221,0.151,0.0,0.471,0.716,86.985,1,2009.0,1.0,justin bieber,True
+57,glee cast,good vibrations,1,0.753,0.975,7,-4.621,1,0.104,0.00223,0.001,0.0229,0.585,122.001,1,2010.0,6.0,glee cast,True
+60,belle and sebastian,i could be dreaming,0,0.261,0.707,1,-9.291,1,0.0332,0.00293,1.13e-05,0.189,0.574,156.892,0,1996.0,1.0,belle,True
+67,glenn frey,ive got mine,0,0.659,0.741,9,-9.582,0,0.0252,0.0105,0.11,0.0506,0.906,116.036,1,1992.0,1.0,glenn frey,True
+68,pascal sangla,une petite pause,0,0.536,0.272,9,-14.858,1,0.0281,0.511,0.873,0.0677,0.301,92.845,0,2010.0,2.0,pascal sangla,True
+71,dora the explorer,limbo rock,0,0.855,0.893,2,-5.162,1,0.146,0.21,0.0,0.0319,0.904,104.958,0,,,dora the explorer,False
+72,selena gomez & the scene,falling down,0,0.575,0.905,0,-3.411,1,0.0998,0.000164,1.66e-05,0.363,0.765,140.044,1,2009.0,1.0,selena gomez,True
+74,cargo cult,helium,0,0.635,0.725,8,-7.899,1,0.0337,0.112,0.497,0.0805,0.742,144.008,0,2005.0,5.0,cargo cult,True
+79,glee cast,i look to you,1,0.465,0.423,6,-7.032,1,0.0291,0.761,3.86e-05,0.0663,0.0872,101.617,1,2010.0,10.0,glee cast,True
+81,rod stewart,the motown song,1,0.654,0.837,9,-6.121,1,0.0455,0.155,0.0,0.113,0.778,116.0,1,2008.0,11.0,rod stewart,True
+84,sheek louch,die slow,0,0.616,0.773,3,-4.557,0,0.385,0.0683,0.0,0.179,0.574,113.076,0,2011.0,3.0,sheek louch,True
+86,keb mo,i am your mother too,0,0.434,0.247,7,-16.002,1,0.0436,0.747,0.00021,0.103,0.0675,173.334,0,,,keb mo,False
+88,eazy-e,just tah let u know,0,0.736,0.741,8,-3.857,0,0.292,0.0645,0.0,0.137,0.579,92.65,1,1996.0,1.0,eazy-e,True
+91,gene chandler,festival of love,0,0.452,0.172,5,-15.0,1,0.0268,0.922,3.89e-06,0.313,0.566,93.488,0,,,gene chandler,False
+96,luscious jackson,naked eye,0,0.737,0.657,4,-10.962,0,0.0284,0.0863,0.0339,0.0953,0.76,131.022,1,1996.0,1.0,luscious jackson,True
+97,liquid soul,dysfunction,0,0.659,0.637,5,-8.793,0,0.0513,0.1,0.000308,0.328,0.549,91.929,0,2005.0,6.0,liquid soul,True
+98,dixie chicks,long time gone,1,0.549,0.693,2,-5.572,1,0.0311,0.18,1.75e-06,0.153,0.819,170.241,1,2002.0,7.0,dixie chicks,True
+99,semisonic,if i run,0,0.5,0.803,9,-7.19,1,0.0293,5.61e-05,0.244,0.0772,0.533,92.963,0,1996.0,1.0,semisonic,True
+102,epmd,for my people,0,0.548,0.543,10,-9.755,0,0.299,0.00846,1.22e-06,0.397,0.38,92.913,0,1990.0,12.0,epmd,True
+108,breaking benjamin,the diary of jane,1,0.391,0.963,10,-4.378,0,0.0773,5.86e-05,0.0689,0.14,0.364,167.065,1,2006.0,1.0,breaking benjamin,True
+112,luther vandross,dont want to be a fool,1,0.632,0.576,7,-8.345,1,0.0234,0.482,0.0,0.151,0.323,95.321,1,1991.0,4.0,luther vandross,True
+113,vangelis,procession,0,0.528,0.354,2,-18.476,1,0.0307,0.0577,0.225,0.0929,0.226,59.883,0,1990.0,1.0,vangelis,True
+115,uncle kracker,smile,1,0.541,0.812,4,-3.764,1,0.0336,0.203,0.0,0.42,0.607,141.056,1,2009.0,9.0,uncle kracker,True
+117,m83,you appearing,0,0.341,0.22,2,-11.513,1,0.0299,0.789,0.592,0.161,0.204,97.454,0,2008.0,4.0,m83,True
+118,salt-n-pepa,none of your business,0,0.765,0.569,6,-9.511,1,0.478,0.191,0.0,0.0586,0.747,197.89,1,1993.0,10.0,salt-n-pepa,True
+130,desmond child,love on a rooftop,0,0.613,0.754,3,-8.128,1,0.031,0.179,1.59e-06,0.211,0.662,107.967,1,1991.0,6.0,desmond child,True
+131,system of a down,war?,0,0.365,0.939,8,-3.523,1,0.0831,0.0831,5.58e-05,0.0947,0.527,98.646,0,,,system of a down,False
+139,radio birdman,zeno beach,0,0.318,0.912,1,-4.886,0,0.0437,0.00022,0.0428,0.0867,0.474,99.946,0,2006.0,8.0,radio birdman,True
+142,kenny g,auld lang syne,0,0.16,0.296,0,-11.86,1,0.0348,0.111,0.847,0.101,0.0388,62.33,1,2012.0,9.0,kenny g,True
+144,u2,kite live from sydney,1,0.477,0.588,3,-7.669,1,0.0283,0.114,0.00361,0.977,0.178,133.968,0,2006.0,1.0,u2,True
+149,kitaro,quasar,0,0.445,0.758,9,-10.697,0,0.0311,0.00719,0.19,0.634,0.367,94.733,0,2006.0,5.0,kitaro,True
+152,heavy d & the boyz,black coffee,0,0.857,0.519,9,-15.684,0,0.192,0.00651,0.00859,0.04,0.743,98.067,1,1994.0,5.0,heavy d,True
+166,rhian sheehan,untitled,0,0.598,0.287,5,-17.419,1,0.676,0.511,0.0,0.114,0.573,78.915,0,,,rhian sheehan,False
+168,mis-teeq,scandalous,0,0.734,0.668,0,-3.935,0,0.0349,0.0526,0.0,0.0925,0.651,99.971,1,2004.0,7.0,mis-teeq,True
+169,paul brown,old friends,0,0.737,0.446,7,-9.029,0,0.0361,0.646,0.329,0.316,0.611,91.989,0,2005.0,1.0,paul brown,True
+178,jordan & baker,explode (epic extended mix),0,0.683,0.954,3,-8.565,0,0.0498,0.000218,0.854,0.329,0.214,138.991,0,,,jordan,False
+179,onerepublic,secrets,1,0.515,0.767,2,-6.199,1,0.0352,0.098,0.0,0.121,0.38,148.024,1,2009.0,1.0,onerepublic,True
+180,bob dylan,trying to get to heaven,0,0.481,0.479,3,-13.366,1,0.0325,0.476,0.00105,0.271,0.552,95.274,0,1997.0,9.0,bob dylan,True
+183,mario,how could you,0,0.843,0.48,11,-7.031,0,0.143,0.0468,0.0,0.081,0.743,122.005,1,2004.0,12.0,mario,True
+184,emerson drive,i should be sleeping,0,0.496,0.895,8,-4.027,1,0.147,0.205,0.0,0.0626,0.654,164.363,1,2002.0,1.0,emerson drive,True
+186,jeff scott soto,if this is the end,0,0.499,0.59,0,-6.612,0,0.0265,0.0115,4.37e-06,0.0815,0.266,105.873,0,2006.0,6.0,jeff scott soto,True
+192,cypress hill,throw your set in the air,1,0.776,0.731,9,-12.264,1,0.43,0.0945,0.000274,0.318,0.485,92.394,1,1995.0,10.0,cypress hill,True
+210,otis taylor,hungry people,0,0.519,0.426,0,-10.033,1,0.0437,0.852,0.011,0.124,0.475,125.338,0,,,otis taylor,False
+216,jack ingram,barefoot and crazy,0,0.582,0.908,7,-5.641,1,0.0481,0.000406,0.0012,0.371,0.577,116.986,1,2009.0,1.0,jack ingram,True
+224,martina mcbride,whatever you say,1,0.456,0.649,8,-6.157,1,0.0265,0.0323,4.02e-06,0.0461,0.0763,152.957,1,2012.0,10.0,martina mcbride,True
+228,belle and sebastian,like dylan in the movies,0,0.505,0.444,1,-12.672,0,0.0279,0.319,0.000133,0.147,0.625,157.899,0,1996.0,1.0,belle,True
+229,primordial,empire falls,0,0.174,0.836,2,-6.377,1,0.0674,3.13e-05,0.398,0.218,0.0441,120.365,0,,,primordial,False
+230,moist,far beyond the endless,0,0.476,0.56,4,-10.221,0,0.0392,0.00646,0.502,0.166,0.0676,105.653,0,2011.0,2.0,moist,True
+232,u2,stuck in a moment you cant get out of,1,0.531,0.653,4,-4.866,1,0.024,0.351,9.7e-05,0.117,0.331,158.498,1,2000.0,1.0,u2,True
+237,liars,leather prowler,0,0.389,0.867,8,-8.483,0,0.113,0.53,0.745,0.187,0.115,143.568,0,,,liars,False
+239,vivian green,emotional rollercoaster,0,0.692,0.562,6,-6.034,0,0.0924,0.0973,0.0,0.304,0.504,122.937,1,2002.0,11.0,vivian green,True
+241,50 cent,the invitation,1,0.409,0.951,6,-2.505,0,0.467,0.0348,0.0,0.0709,0.422,83.853,1,2009.0,1.0,50 cent,True
+251,sting,let your soul be your pilot,1,0.64,0.578,10,-8.372,1,0.0228,0.405,0.000801,0.108,0.566,96.032,1,1996.0,1.0,sting,True
+256,kenny rogers,where does rosie go?,1,0.492,0.692,5,-12.921,1,0.0421,0.563,5e-05,0.252,0.857,153.354,0,,,kenny rogers,False
+261,semisonic,secret smile,0,0.551,0.516,10,-9.587,0,0.027,0.289,0.00015,0.0853,0.547,99.045,0,1998.0,3.0,semisonic,True
+267,wyclef jean,midnight lovers,0,0.0,0.656,6,-13.507,1,0.0,0.601,0.0,0.0,0.0,0.0,0,2002.0,6.0,wyclef jean,True
+268,bebo norman,borrow mine,0,0.451,0.685,1,-5.347,1,0.0283,0.00374,3.67e-05,0.144,0.436,144.08,0,,,bebo norman,False
+275,janet jackson,i want you,1,0.645,0.836,3,-5.558,1,0.0382,0.201,0.0207,0.156,0.681,105.741,1,2004.0,1.0,janet jackson,True
+278,tex williams,wild card,0,0.707,0.567,0,-10.481,1,0.0913,0.535,7.08e-05,0.327,0.971,149.906,0,1996.0,1.0,tex williams,True
+285,firehouse,rock on the radio,0,0.534,0.787,1,-10.579,0,0.0429,0.000132,0.0025,0.366,0.319,83.896,0,1990.0,9.0,firehouse,True
+287,nina sky featuring jabba,move ya body,0,0.898,0.744,11,-5.062,0,0.12,0.152,0.0,0.156,0.901,120.979,1,,,nina sky,False
+292,snoop dogg,still a g thang,1,0.876,0.745,11,-3.149,0,0.257,0.0886,0.0,0.174,0.582,98.009,1,2005.0,1.0,snoop dogg,True
+294,radiohead,fast-track,0,0.462,0.905,1,-7.108,0,0.19,0.0569,0.867,0.122,0.403,103.465,0,2001.0,5.0,radiohead,True
+295,eyehategod,left to starve,0,0.295,0.581,3,-9.301,0,0.0353,0.178,0.906,0.117,0.139,146.945,0,,,eyehategod,False
+296,astarte,voyage to eternal life,0,0.161,0.789,0,-4.9,1,0.0731,3.58e-06,0.262,0.269,0.0752,129.675,0,2017.0,9.0,astarte,True
+299,ayo,down on my knees,0,0.812,0.852,1,-7.87,1,0.0506,3.14e-05,0.754,0.47,0.776,121.99,0,2015.0,10.0,ayo,True
+306,2pac,i wonder if heaven got a ghetto,1,0.89,0.721,7,-5.251,1,0.202,0.23,0.0,0.252,0.651,107.981,1,1997.0,1.0,2pac,True
+308,dj quik,pitch in ona party,1,0.927,0.53,6,-6.602,1,0.253,0.0548,0.0,0.0701,0.567,106.363,0,,,dj quik,False
+312,life in your way,when rules change,0,0.23,0.94,5,-4.774,1,0.0871,0.00017,1.15e-05,0.784,0.299,90.901,0,2005.0,6.0,life in your way,True
+322,too $hort,the ghetto,0,0.947,0.354,6,-12.844,0,0.27,0.0455,5.71e-05,0.212,0.36,100.087,1,1990.0,9.0,too $hort,True
+324,marky mark & the funky bunch,wildside,0,0.765,0.358,8,-15.551,0,0.113,0.182,0.238,0.1,0.226,105.415,1,,,marky mark,False
+337,john sebastian,freezin from the inside out,0,0.479,0.323,9,-12.451,1,0.0355,0.195,0.002,0.139,0.193,110.452,0,2005.0,6.0,john sebastian,True
+346,kelly sweet,we are one,0,0.531,0.402,11,-9.592,1,0.0391,0.772,9.81e-05,0.119,0.204,139.909,0,2007.0,3.0,kelly sweet,True
+348,jennifer lopez,get right,1,0.741,0.759,0,-5.096,0,0.12,0.0218,0.0,0.628,0.362,97.084,1,,,jennifer lopez,False
+349,johannes linstead,caja de cerillas,0,0.755,0.762,9,-8.486,0,0.0641,0.417,0.738,0.104,0.501,90.042,0,2000.0,5.0,johannes linstead,True
+351,shriekback,the strongest wind that blows,0,0.714,0.458,10,-11.975,0,0.178,0.138,0.0687,0.16,0.716,170.033,0,2007.0,11.0,shriekback,True
+353,vangelis,preparation,0,0.568,0.347,5,-19.855,1,0.0323,0.624,0.911,0.111,0.79,62.539,0,,,vangelis,False
+360,all-4-one,"someday (from the hunchback of notre dame"")""",1,0.22,0.174,6,-20.329,0,0.0307,0.378,0.0,0.0944,0.106,167.178,1,1996.0,5.0,all-4-one,True
+361,monty are i,o brother,0,0.359,0.903,2,-3.413,1,0.148,0.00338,0.0,0.637,0.468,169.842,0,2006.0,1.0,monty are i,True
+366,kalimba,nunca sabras,0,0.573,0.434,11,-6.014,0,0.0315,0.464,0.0,0.0689,0.394,84.987,0,,,kalimba,False
+368,dropkick murphys,bloody pig pile (live),0,0.351,0.942,10,-4.653,1,0.111,0.00217,8.06e-05,0.971,0.21,92.04,0,,,dropkick murphys,False
+372,lenny kravitz,ill be waiting,1,0.677,0.452,10,-6.468,1,0.0332,0.0736,0.0065,0.0969,0.595,72.78,1,2008.0,2.0,lenny kravitz,True
+377,plain white ts,rhythm of love,0,0.531,0.542,8,-7.721,1,0.0432,0.356,0.0,0.119,0.726,171.878,1,2010.0,1.0,plain white ts,True
+379,showbread,the pig,0,0.391,0.586,4,-6.7,1,0.035,0.00191,0.124,0.175,0.153,120.417,0,2008.0,1.0,showbread,True
+381,luther vandross,dance with my father,1,0.739,0.341,10,-9.971,1,0.0378,0.525,1.1e-06,0.072,0.231,80.958,1,2003.0,6.0,luther vandross,True
+382,goose,bring it on,0,0.66,0.919,6,-4.53,1,0.0521,0.00755,0.00621,0.299,0.66,119.953,0,2006.0,9.0,goose,True
+386,dave weckl,just an illusion,0,0.613,0.825,0,-12.064,1,0.0336,0.11,0.245,0.101,0.932,93.5,0,1994.0,1.0,dave weckl,True
+402,quad city djs,"space jam (from space jam"")""",0,0.798,0.952,11,-4.78,0,0.0401,0.064,0.000513,0.287,0.843,132.031,1,1996.0,11.0,quad city djs,True
+403,patrick lamb,i remember,0,0.666,0.846,9,-5.739,0,0.0513,0.187,0.139,0.178,0.952,92.992,0,,,patrick lamb,False
+406,wade hayes,the day that she left tulsa (in a chevy),0,0.473,0.431,8,-9.399,1,0.0288,0.0203,6.62e-05,0.311,0.106,68.28,1,1998.0,1.0,wade hayes,True
+407,soundgarden,slaves & bulldozers,0,0.473,0.742,0,-6.056,1,0.0342,3.36e-05,0.00248,0.183,0.244,130.977,0,1991.0,10.0,soundgarden,True
+409,lara & reyes,away in a manger,0,0.594,0.234,7,-13.752,1,0.0431,0.972,0.82,0.104,0.453,111.927,0,2000.0,1.0,lara,True
+411,negura bunget,cunoasterea tacuta,0,0.292,0.83,11,-3.617,0,0.0436,0.00116,0.752,0.245,0.126,130.46,0,2003.0,1.0,negura bunget,True
+414,dc talk,between you and me,0,0.548,0.909,9,-4.302,0,0.0376,0.166,0.0191,0.0642,0.51,99.713,1,,,dc talk,False
+415,shakedown,at night,0,0.809,0.881,5,-4.591,0,0.0717,0.0138,0.646,0.045,0.965,126.996,0,2017.0,12.0,shakedown,True
+419,novaspace,guardian angel,0,0.607,0.551,2,-7.146,1,0.0319,0.389,2.95e-05,0.0909,0.383,92.982,0,2004.0,1.0,novaspace,True
+422,louisa mark,keep it like it is,0,0.777,0.227,3,-14.302,1,0.0629,0.108,0.119,0.0904,0.839,128.332,0,1998.0,12.0,louisa mark,True
+423,glee cast,true colors,1,0.611,0.387,2,-7.949,1,0.0242,0.118,0.0,0.213,0.335,85.978,1,2009.0,12.0,glee cast,True
+425,p.o.d.,youth of the nation,0,0.563,0.86,8,-7.533,1,0.0621,0.00834,0.0106,0.39,0.517,97.867,1,2001.0,9.0,p.o.d.,True
+429,marc anthony,ive got you,0,0.648,0.883,10,-5.745,0,0.06,0.00336,0.0,0.116,0.636,101.989,1,2002.0,5.0,marc anthony,True
+432,citizen kaned,president johnson,0,0.756,0.804,11,-8.371,1,0.131,0.00608,0.761,0.526,0.332,108.056,0,2000.0,11.0,citizen kaned,True
+436,k-ci & jojo,you bring me up,1,0.76,0.7,11,-4.133,0,0.158,0.0765,0.0,0.163,0.754,90.839,1,1997.0,1.0,k-ci,True
+438,ginny owens,long way home,0,0.563,0.337,0,-11.69,1,0.0305,0.519,1.37e-06,0.118,0.216,119.899,0,2005.0,10.0,ginny owens,True
+450,shelby lynne,pretend,0,0.59,0.13,11,-16.726,0,0.0323,0.941,0.000413,0.1,0.287,146.01,0,,,shelby lynne,False
+451,tyrese,how you gonna act like that,1,0.733,0.521,3,-3.657,0,0.0457,0.107,0.0,0.0692,0.525,112.913,1,2002.0,12.0,tyrese,True
+452,strata,part one from triomusic,0,0.495,0.0619,2,-20.571,1,0.0745,0.965,0.445,0.0984,0.0911,124.213,0,2008.0,4.0,strata,True
+454,hi-fi companions,amoria,0,0.605,0.776,4,-8.085,0,0.0404,0.000511,0.119,0.108,0.504,130.0,0,,,hi-fi companions,False
+460,jars of clay,flood,0,0.626,0.632,0,-8.692,0,0.0287,0.181,0.0,0.146,0.7,114.593,1,1995.0,10.0,jars of clay,True
+461,rita chiarelli,doggin around,0,0.395,0.336,5,-8.031,1,0.0422,0.804,0.000715,0.243,0.36,178.993,0,2011.0,4.0,rita chiarelli,True
+465,captain hollywood project,the way love is,0,0.537,0.828,7,-8.58,1,0.0339,0.00411,0.031,0.139,0.391,150.016,0,1995.0,8.0,captain hollywood project,True
+473,halfway to gone,black night,0,0.297,0.97,5,-4.971,0,0.188,6.01e-06,0.361,0.0655,0.486,141.988,0,2004.0,4.0,halfway to gone,True
+474,butthole surfers,ulcer breakout,0,0.275,0.992,2,-3.283,1,0.135,0.00535,0.00342,0.0835,0.468,121.52,0,1996.0,1.0,butthole surfers,True
+476,john debney,dad apologizes,0,0.303,0.0635,0,-25.041,1,0.0396,0.918,0.872,0.0708,0.187,114.523,0,2005.0,1.0,john debney,True
+483,ashtrax,future traffic song,0,0.757,0.403,11,-13.393,0,0.11,0.00333,0.355,0.186,0.762,123.016,0,2007.0,11.0,ashtrax,True
+485,jonas brothers,love is on its way,1,0.204,0.642,9,-6.116,1,0.0525,0.241,0.0,0.306,0.132,175.337,1,2009.0,1.0,jonas brothers,True
+487,a perfect circle,weak and powerless,0,0.483,0.841,1,-7.494,0,0.0523,0.000172,0.861,0.108,0.129,159.747,1,2003.0,1.0,a perfect circle,True
+493,richard marx,chains around my heart,0,0.481,0.467,6,-10.442,0,0.0292,0.134,1.94e-05,0.13,0.115,81.054,1,1991.0,1.0,richard marx,True
+494,the black crowes,thorn in my pride,0,0.566,0.824,4,-5.278,1,0.0378,0.0476,0.000107,0.0929,0.574,143.102,1,1992.0,1.0,the black crowes,True
+496,epmd,jane 5,1,0.721,0.538,10,-8.281,0,0.388,0.0184,0.000317,0.119,0.393,86.927,0,1997.0,9.0,epmd,True
+498,dj quik,born and raised in compton,1,0.733,0.442,10,-14.498,0,0.37,0.0239,0.0,0.133,0.86,181.634,0,,,dj quik,False
+512,r. kelly,when a womans fed up,0,0.682,0.579,2,-6.526,0,0.101,0.467,2.21e-06,0.0952,0.712,76.915,1,,,r. kelly,False
+523,shawn colvin,sunny came home,0,0.554,0.58,11,-8.05,0,0.0322,0.344,0.00842,0.0989,0.402,167.83,1,1996.0,9.0,shawn colvin,True
+534,dj quik,tonite,0,0.965,0.449,0,-15.225,1,0.237,0.0502,1.17e-06,0.267,0.722,105.392,1,,,dj quik,False
+542,2pac,i get around,0,0.849,0.422,10,-13.95,0,0.122,0.157,1.19e-05,0.255,0.624,96.216,1,1993.0,2.0,2pac,True
+543,stacie orrico,stuck,0,0.377,0.904,4,-3.634,0,0.307,0.0747,0.0,0.334,0.595,200.566,1,2003.0,1.0,stacie orrico,True
+545,fall out boy,thnks fr th mmrs,0,0.459,0.884,10,-5.005,0,0.0644,0.00539,0.0,0.107,0.615,154.868,1,2007.0,1.0,fall out boy,True
+548,showbread,dinosaur bones,0,0.684,0.97,7,-4.699,1,0.123,0.00821,4.26e-05,0.0569,0.507,112.713,0,2006.0,1.0,showbread,True
+550,k-ci & jojo,life,0,0.634,0.528,1,-8.834,1,0.0309,0.117,2.26e-06,0.0565,0.18,128.0,1,1997.0,1.0,k-ci,True
+551,seven mary three,hammer & a stone,1,0.322,0.287,0,-12.994,1,0.0302,0.927,0.574,0.69,0.216,138.012,0,2010.0,2.0,seven mary three,True
+552,glee cast,only the good die young,1,0.572,0.885,0,-5.6,1,0.0866,0.288,0.0,0.0936,0.535,150.072,1,2010.0,10.0,glee cast,True
+554,michael bolton,said i loved you...but i lied,1,0.547,0.569,10,-8.644,1,0.0271,0.189,7.05e-06,0.156,0.432,159.713,1,,,michael bolton,False
+561,vangelis,twilight,0,0.212,0.0932,7,-25.532,0,0.0434,0.893,0.843,0.652,0.194,143.232,0,1990.0,1.0,vangelis,True
+562,janet jackson,again,1,0.873,0.591,7,-8.942,1,0.102,0.0788,0.0071,0.104,0.496,123.091,0,1997.0,10.0,janet jackson,True
+563,snow patrol,shut your eyes,0,0.692,0.738,1,-6.43,1,0.0283,0.149,0.00013,0.0836,0.841,124.992,0,2006.0,1.0,snow patrol,True
+565,blackalicious,ego trip by nikki giovanni,0,0.683,0.671,1,-5.601,0,0.31,0.223,0.0,0.103,0.962,75.338,0,,,blackalicious,False
+567,james newton howard,u north,0,0.158,0.135,11,-32.174,0,0.0746,0.752,0.929,0.101,0.0216,180.067,0,2007.0,1.0,james newton howard,True
+569,bow wow wow,c30 c60 c90 go,0,0.641,0.692,10,-8.46,0,0.0562,0.178,0.418,0.0535,0.583,115.048,0,1993.0,9.0,bow wow wow,True
+570,gonzalo rubalcaba,improv #1,0,0.291,0.167,10,-23.477,1,0.0577,0.966,0.931,0.106,0.186,68.724,0,2006.0,1.0,gonzalo rubalcaba,True
+581,cama,walk with you,0,0.857,0.691,4,-4.323,1,0.0324,0.165,0.000177,0.0936,0.964,93.048,0,2009.0,9.0,cama,True
+582,digital mystikz,molten,0,0.659,0.473,1,-6.52,1,0.0455,0.000888,0.849,0.357,0.0767,142.992,0,2006.0,10.0,digital mystikz,True
+584,bongzilla,stone a pig,0,0.299,0.775,0,-7.745,1,0.0529,0.00293,0.702,0.381,0.149,115.819,0,2002.0,9.0,bongzilla,True
+585,toots & the maytals,she will never let me down,0,0.737,0.465,10,-10.666,1,0.041,0.518,0.0,0.0644,0.905,120.847,0,1999.0,10.0,toots,True
+593,unk,2 step,1,0.721,0.72,9,-6.145,0,0.192,0.0564,0.0,0.173,0.643,76.976,1,2007.0,9.0,unk,True
+596,stevie ray vaughan and double trouble,tin pan alley (aka roughest place in town),0,0.576,0.0968,6,-19.439,0,0.036,0.546,0.286,0.226,0.168,113.232,0,,,stevie ray vaughan,False
+600,nando lauria,o come all ye faithful,0,0.143,0.204,10,-14.753,1,0.0318,0.917,0.664,0.148,0.0755,49.564,0,1995.0,1.0,nando lauria,True
+601,the all-american rejects,it ends tonight,1,0.335,0.676,0,-4.68,1,0.0301,0.00275,0.0,0.141,0.341,175.845,1,2005.0,1.0,the all-american rejects,True
+603,justin bieber,that should be me,1,0.533,0.627,8,-5.584,1,0.0333,0.198,0.0,0.182,0.263,139.919,1,2010.0,1.0,justin bieber,True
+606,the strokes,between love & hate,0,0.453,0.61,9,-4.935,1,0.0254,5.35e-05,0.545,0.101,0.525,104.188,0,2003.0,10.0,the strokes,True
+608,paul cantelon,the other boleyn girl - opening titles,0,0.27,0.145,0,-17.892,0,0.0335,0.807,0.219,0.0761,0.0351,86.745,0,2008.0,1.0,paul cantelon,True
+612,50 cent,piggy bank,1,0.48,0.845,10,-4.127,0,0.303,0.012,0.0,0.331,0.872,79.374,1,,,50 cent,False
+613,shaggy,alimony,0,0.796,0.898,10,-7.375,0,0.163,0.068,0.0,0.0814,0.939,89.969,0,,,shaggy,False
+614,eastmountainsouth,hard times,0,0.604,0.434,6,-8.873,1,0.0283,0.719,1.56e-05,0.0896,0.354,126.052,0,2003.0,1.0,eastmountainsouth,True
+620,shades,serenade,0,0.534,0.464,0,-11.987,1,0.0268,0.797,0.54,0.0744,0.347,156.001,1,2009.0,6.0,shades,True
+622,captain hollywood project,all i want,0,0.717,0.677,4,-12.76,0,0.0662,0.102,0.0794,0.0912,0.267,109.877,0,1993.0,3.0,captain hollywood project,True
+630,janet jackson,greatest x,1,0.678,0.686,1,-7.327,1,0.0363,0.135,0.0,0.187,0.561,114.032,0,2008.0,1.0,janet jackson,True
+636,goodie mob,dirty south,1,0.918,0.36,5,-9.952,0,0.275,0.029,0.0,0.0799,0.243,91.959,1,1995.0,11.0,goodie mob,True
+638,lil suzy,cant get you out of my mind,0,0.863,0.68,6,-6.018,0,0.0642,0.0457,0.000476,0.0853,0.875,130.092,1,,,lil suzy,False
+639,bongzilla,cutdown,0,0.24,0.811,11,-6.347,1,0.0725,0.0374,0.933,0.242,0.473,91.178,0,2005.0,9.0,bongzilla,True
+646,alexis hk,juste une fois,0,0.563,0.228,9,-14.17,1,0.0852,0.853,0.0,0.382,0.508,92.928,0,2004.0,11.0,alexis hk,True
+649,max-a-million,take your time (do it right),0,0.842,0.961,5,-6.134,1,0.0421,0.0193,0.0087,0.425,0.939,122.979,1,1995.0,10.0,max-a-million,True
+654,blind lemon jefferson,long distance moan,0,0.691,0.0331,10,-14.197,1,0.0906,0.995,0.0587,0.112,0.608,106.387,0,1992.0,1.0,blind lemon jefferson,True
+666,tamia,officially missing you,1,0.476,0.407,4,-9.239,0,0.0368,0.247,0.0,0.144,0.226,178.258,1,,,tamia,False
+672,the offspring,why dont you get a job?,0,0.766,0.874,5,-4.486,1,0.0737,0.0746,1.59e-06,0.333,0.641,107.939,1,1998.0,11.0,the offspring,True
+675,uncle kracker,follow me,0,0.817,0.585,5,-4.688,1,0.0301,0.439,0.0,0.147,0.916,105.014,1,2000.0,6.0,uncle kracker,True
+686,vhs or beta,new day rising,0,0.658,0.597,7,-10.064,1,0.0367,8.55e-05,0.552,0.124,0.403,131.833,0,2004.0,1.0,vhs or beta,True
+690,becky baeling,if you love me,0,0.618,0.779,7,-4.356,1,0.0522,0.0319,0.0,0.178,0.628,130.023,0,2003.0,1.0,becky baeling,True
+692,glee cast,me against the music,1,0.829,0.909,11,-5.836,0,0.0686,0.0878,0.0,0.193,0.791,120.011,1,2010.0,11.0,glee cast,True
+694,barenaked ladies,the old apartment,0,0.467,0.664,10,-10.189,1,0.0479,0.0448,0.0,0.365,0.642,159.858,1,1996.0,3.0,barenaked ladies,True
+695,neviss,spain,0,0.454,0.708,3,-5.601,1,0.0276,0.00527,0.705,0.112,0.126,93.961,0,2003.0,9.0,neviss,True
+700,lady gaga,paparazzi,0,0.755,0.688,8,-3.97,1,0.0535,0.0947,0.0,0.0852,0.429,114.928,1,2008.0,1.0,lady gaga,True
+701,group home,supa star,0,0.707,0.776,4,-7.378,0,0.278,0.0195,2.05e-06,0.216,0.379,91.283,1,1995.0,1.0,group home,True
+708,nelly furtado,say it right,1,0.871,0.873,1,-6.234,1,0.13,0.0488,0.000747,0.0532,0.813,116.945,1,2006.0,1.0,nelly furtado,True
+711,radiohead,2 + 2 = 5,0,0.443,0.717,5,-5.498,0,0.0504,0.182,5.1e-05,0.345,0.386,149.582,0,,,radiohead,False
+717,cadacross,bring out your dead,0,0.5,0.974,4,-4.321,0,0.0672,0.000876,0.572,0.0939,0.365,92.492,0,,,cadacross,False
+718,bongzilla,champagne & reefer,0,0.28,0.819,4,-4.095,1,0.0391,0.00154,0.828,0.112,0.734,97.085,0,2005.0,9.0,bongzilla,True
+721,cockney rejects,easy life (live),0,0.24,0.913,7,-8.372,1,0.0915,0.43,0.000714,0.452,0.733,137.244,0,,,cockney rejects,False
+724,deborah cox,the sound of my tears,0,0.704,0.564,4,-8.191,1,0.0686,0.444,0.00384,0.111,0.338,145.996,1,,,deborah cox,False
+726,devo,be stiff (live),0,0.525,0.983,9,-6.909,1,0.0885,0.0781,0.588,0.843,0.646,153.004,0,,,devo,False
+727,v v brown,leave!,0,0.533,0.774,0,-6.444,1,0.0539,0.00033,1.52e-06,0.184,0.802,150.047,0,,,v v brown,False
+728,lenny kravitz,dig in,1,0.671,0.921,9,-3.878,1,0.0291,0.0129,0.0235,0.0579,0.825,118.424,1,2001.0,1.0,lenny kravitz,True
+730,amorphis,crimson wave,0,0.521,0.859,9,-5.805,0,0.0306,3.29e-05,0.021,0.37,0.615,108.019,0,2001.0,4.0,amorphis,True
+733,porter wagoner,angel band,0,0.648,0.31,7,-9.576,1,0.0264,0.62,0.0,0.12,0.268,97.958,0,,,porter wagoner,False
+734,sophie b. hawkins,the ballad of sleeping beauty,0,0.664,0.76,9,-6.121,1,0.0311,0.473,0.0,0.0682,0.443,105.003,0,1994.0,7.0,sophie b. hawkins,True
+735,nelly,(hot s**t) country grammar,0,0.889,0.643,2,-6.695,1,0.149,0.0171,0.0,0.236,0.641,81.371,1,2000.0,1.0,nelly,True
+739,arc angels,sent by angels,0,0.519,0.516,7,-10.819,1,0.0265,0.0403,0.00165,0.0536,0.362,83.879,0,1992.0,1.0,arc angels,True
+745,porcupine tree,music for the head,0,0.257,0.0243,8,-29.005,0,0.0424,0.675,0.91,0.099,0.0325,126.631,0,1991.0,7.0,porcupine tree,True
+747,los amigos invisibles,ultra-funk,0,0.667,0.903,0,-6.451,1,0.0398,0.0141,0.00915,0.309,0.823,109.463,0,,,los amigos invisibles,False
+754,lady gaga,poker face,1,0.846,0.815,4,-4.512,1,0.0761,0.139,2.19e-06,0.131,0.831,118.999,0,2008.0,1.0,lady gaga,True
+768,snow patrol,spitting games,0,0.498,0.89,7,-3.935,1,0.0292,0.000683,0.0476,0.562,0.518,145.168,0,2004.0,1.0,snow patrol,True
+769,kanye west,street lights,0,0.641,0.488,1,-9.604,1,0.0349,0.0321,0.0293,0.233,0.441,125.497,0,2008.0,1.0,kanye west,True
+770,tigertailz,thrill pistol,0,0.525,0.865,2,-6.527,1,0.0459,4.71e-05,0.000474,0.123,0.503,133.962,0,2017.0,3.0,tigertailz,True
+772,dj icey,a little louder,0,0.745,0.655,1,-6.643,0,0.0416,0.00636,0.265,0.138,0.568,133.015,0,2003.0,3.0,dj icey,True
+774,tech n9ne,caribou lou,0,0.784,0.815,1,-2.703,1,0.298,0.127,0.0,0.0758,0.559,178.119,0,,,tech n9ne,False
+776,color me badd,time and chance,1,0.697,0.451,2,-7.657,1,0.0776,0.027,6.26e-06,0.13,0.249,180.53,1,1993.0,11.0,color me badd,True
+785,donna fargo,superman,0,0.611,0.676,11,-11.581,1,0.0457,0.52,3.85e-06,0.283,0.954,99.769,0,1998.0,12.0,donna fargo,True
+787,walter trout,earrings on the table,0,0.461,0.0894,7,-18.445,1,0.041,0.932,0.0,0.0876,0.547,79.939,0,2006.0,5.0,walter trout,True
+788,50 cent / mobb deep,outta control,0,0.761,0.537,8,-8.139,0,0.272,0.0241,0.0,0.119,0.555,92.02,0,2017.0,3.0,50 cent,True
+790,sunscreem,perfect motion,0,0.793,0.585,7,-13.105,1,0.0579,0.0138,0.829,0.138,0.551,124.999,0,2012.0,3.0,sunscreem,True
+791,the mars volta,take the veil cerpin taxt,0,0.24,0.933,9,-3.397,0,0.14,0.00059,0.0211,0.112,0.387,91.56,0,2003.0,1.0,the mars volta,True
+793,ann lee,so deep,0,0.612,0.925,11,-5.71,0,0.0292,0.000754,0.000101,0.116,0.602,131.986,0,2001.0,4.0,ann lee,True
+794,bebo norman,britney,0,0.623,0.567,5,-6.317,1,0.0266,0.0786,0.00427,0.109,0.514,95.943,0,2008.0,1.0,bebo norman,True
+796,fergie,big girls dont cry,1,0.712,0.647,7,-4.277,1,0.0336,0.239,0.0,0.0955,0.292,113.116,1,2006.0,1.0,fergie,True
+801,naughty by nature,swing swang,1,0.894,0.745,5,-3.485,0,0.0869,0.0923,0.000245,0.0756,0.935,93.958,0,2002.0,3.0,naughty by nature,True
+802,amorphis,the lost name of god,0,0.166,0.771,8,-6.862,1,0.0548,0.000349,0.824,0.0646,0.162,128.071,0,1992.0,11.0,amorphis,True
+803,david bowie,im afraid of americans,0,0.62,0.755,10,-7.896,1,0.0762,0.00184,0.244,0.225,0.75,160.027,1,1997.0,1.0,david bowie,True
+804,death ss,the healer,0,0.508,0.728,3,-7.088,0,0.0315,0.000653,0.000916,0.221,0.249,101.988,0,2010.0,6.0,death ss,True
+806,rise against,1000 good intentions,0,0.483,0.888,9,-4.925,1,0.124,0.000451,0.151,0.193,0.272,77.8,0,2005.0,8.0,rise against,True
+807,lara,damit du dich in mich verliebst,0,0.667,0.593,2,-5.559,1,0.0251,0.792,0.0,0.281,0.495,82.023,0,2009.0,1.0,lara,True
+812,kings of leon,ragoo,0,0.741,0.764,2,-5.94,1,0.0301,0.0377,2.59e-06,0.0927,0.771,102.008,0,2007.0,4.0,kings of leon,True
+815,whitney cummings,romance,0,0.392,0.991,2,-2.268,1,0.544,0.908,0.0,0.928,0.707,83.99,0,2013.0,12.0,whitney cummings,True
+821,glee cast featuring jonathan groff,bohemian rhapsody,1,0.389,0.419,0,-7.111,0,0.0286,0.417,0.0,0.171,0.381,142.975,1,2010.0,6.0,glee cast,True
+824,snow patrol,chocolate,0,0.579,0.807,2,-4.351,1,0.0326,0.000542,0.00276,0.121,0.433,118.174,0,2004.0,1.0,snow patrol,True
+827,rachel portman,bridget,0,0.0868,0.0277,4,-21.023,0,0.0419,0.966,0.74,0.123,0.037,66.352,0,2008.0,1.0,rachel portman,True
+829,roger clyne & the peacemakers,mile high and risin,0,0.635,0.861,11,-4.593,1,0.0412,0.19,1.74e-06,0.17,0.857,148.918,0,2005.0,5.0,roger clyne,True
+832,naughty by nature,craziest,1,0.868,0.867,4,-5.976,0,0.28,0.267,1.08e-05,0.228,0.595,99.469,1,1995.0,5.0,naughty by nature,True
+836,john williams,old man rocking chair,0,0.552,0.14,4,-10.704,1,0.0648,0.72,0.832,0.13,0.579,91.456,0,2004.0,5.0,john williams,True
+837,all-4-one,(shes got) skillz,0,0.942,0.595,8,-9.781,0,0.0458,0.152,0.000142,0.0861,0.958,100.41,1,1994.0,1.0,all-4-one,True
+838,matt redman,facedown,0,0.364,0.421,6,-7.716,1,0.0269,0.378,0.0,0.108,0.173,156.027,0,2003.0,3.0,matt redman,True
+839,jan wayne,hello,0,0.821,0.606,6,-8.918,1,0.0707,0.0409,7.51e-05,0.0698,0.7,128.024,0,2009.0,12.0,jan wayne,True
+842,daughtry,over you,0,0.423,0.922,3,-2.602,1,0.0411,0.017,0.0,0.102,0.567,156.063,1,2006.0,11.0,daughtry,True
+844,harry gregson-williams,the ball,0,0.313,0.401,8,-8.821,1,0.0349,0.021,0.0503,0.383,0.628,151.156,0,2004.0,12.0,harry gregson-williams,True
+850,no mercy,where do you go,0,0.734,0.828,10,-11.018,0,0.0318,0.0346,0.118,0.071,0.964,127.06,1,1996.0,10.0,no mercy,True
+856,third eye blind,deep inside of you,1,0.502,0.591,7,-4.522,1,0.0242,0.00585,1.9e-05,0.0725,0.169,81.782,1,1999.0,11.0,third eye blind,True
+860,glee cast featuring gwyneth paltrow,forget you,1,0.674,0.736,2,-5.446,1,0.0385,0.0704,1.89e-06,0.15,0.85,127.427,1,2010.0,11.0,glee cast,True
+874,melissa etheridge,im the only one,0,0.613,0.476,0,-9.648,1,0.0321,0.0448,0.0,0.0608,0.644,84.938,1,1993.0,1.0,melissa etheridge,True
+878,glee cast,time warp,1,0.395,0.817,11,-5.757,0,0.125,0.0442,7.23e-05,0.243,0.635,176.196,1,2010.0,10.0,glee cast,True
+879,snowgoons,planetary takeover,0,0.481,0.939,1,-4.359,1,0.369,0.0287,0.0,0.17,0.293,93.837,0,2009.0,5.0,snowgoons,True
+887,2 in a room,el trago (the drink),0,0.814,0.938,6,-5.557,0,0.0847,0.000703,0.415,0.801,0.576,125.008,1,2015.0,1.0,2 in a room,True
+888,kool savas,warum rappst du?,0,0.685,0.922,11,-2.036,0,0.689,0.671,0.0,0.254,0.88,92.57,0,2000.0,4.0,kool savas,True
+889,shaggy / brian & tony gold,hey sexy lady,0,0.95,0.564,3,-6.515,0,0.0653,0.0052,0.00544,0.311,0.655,101.771,0,2008.0,1.0,shaggy,True
+891,michael bolton,when a man loves a woman,0,0.476,0.363,1,-10.706,1,0.0296,0.2,0.0,0.055,0.243,164.555,1,1991.0,4.0,michael bolton,True
+900,photo atlas,red orange yellow,0,0.259,0.852,9,-5.258,1,0.0829,0.000157,0.000164,0.134,0.441,167.684,0,2007.0,1.0,photo atlas,True
+904,the all-american rejects,"swing, swing",0,0.54,0.691,7,-5.888,1,0.0306,7.78e-05,0.331,0.0413,0.367,127.946,1,2002.0,1.0,the all-american rejects,True
+920,queens of the stone age,i never came,0,0.578,0.519,2,-7.79,1,0.027,0.0582,0.178,0.0777,0.557,115.431,0,2005.0,1.0,queens of the stone age,True
+921,jennifer lopez,play,1,0.775,0.729,1,-4.229,0,0.162,0.0303,0.00247,0.0361,0.895,104.719,0,2001.0,7.0,jennifer lopez,True
+926,tilman sillescu,escape from the underrealm,0,0.312,0.633,11,-10.386,1,0.0479,0.498,0.78,0.182,0.225,120.35,0,2008.0,11.0,tilman sillescu,True
+927,bette midler,every road leads back to you,0,0.574,0.251,11,-14.57,1,0.0293,0.388,0.0,0.166,0.128,126.139,1,,,bette midler,False
+937,the mars volta,inertiatic esp,0,0.227,0.853,6,-3.424,0,0.0949,0.00364,0.000106,0.665,0.419,169.51,0,2003.0,1.0,the mars volta,True
+938,ub40,the way you do the things you do,1,0.865,0.414,5,-13.256,0,0.168,0.225,0.00159,0.0425,0.937,80.852,1,,,ub40,False
+949,radiohead,15 step,0,0.6,0.853,1,-7.584,1,0.0423,0.0489,0.346,0.0934,0.847,94.457,0,2007.0,12.0,radiohead,True
+951,tyrese,signs of love makin,1,0.687,0.363,8,-10.144,1,0.0857,0.215,3.08e-06,0.305,0.519,137.365,1,2002.0,12.0,tyrese,True
+953,radiohead,fake plastic trees (acoustic version),0,0.466,0.177,2,-12.224,1,0.0302,0.593,3.92e-05,0.689,0.153,74.877,0,1995.0,1.0,radiohead,True
+962,keb mo,still there for me,0,0.71,0.276,2,-10.755,1,0.0247,0.609,2.74e-05,0.159,0.353,89.966,0,,,keb mo,False
+968,akon,right now (na na na),1,0.816,0.851,8,-4.166,0,0.19,0.283,0.0,0.543,0.568,137.968,1,2008.0,1.0,akon,True
+985,jim jones,we fly high,0,0.685,0.8,1,-6.564,1,0.298,0.0847,0.0,0.092,0.483,120.226,1,,,jim jones,False
+987,snow patrol,just say yes,0,0.534,0.883,9,-5.432,1,0.0334,0.0233,1.94e-05,0.0266,0.222,108.013,0,2013.0,1.0,snow patrol,True
+1000,craig morgan,i got you,0,0.588,0.702,3,-5.295,1,0.0269,0.316,0.0,0.189,0.597,106.052,1,2005.0,3.0,craig morgan,True
+1006,the funeral pyre,here the sun never shines,0,0.198,0.995,8,-5.821,1,0.162,1.58e-06,0.744,0.244,0.0544,112.198,0,2007.0,3.0,the funeral pyre,True
+1007,qt,my baby mama,0,0.688,0.519,2,-8.629,1,0.0421,0.114,0.0,0.0565,0.385,124.125,1,2012.0,4.0,qt,True
+1009,deep forest,hunting,1,0.721,0.719,6,-13.07,1,0.0423,0.00352,0.551,0.0534,0.94,130.016,0,2017.0,11.0,deep forest,True
+1014,maurane,juste une petite fille,0,0.491,0.182,10,-14.274,0,0.0346,0.9,1.24e-06,0.105,0.161,78.025,0,1995.0,1.0,maurane,True
+1020,aesop rock,flashflood,0,0.505,0.899,9,-5.892,1,0.418,0.0624,3.02e-06,0.387,0.23,168.311,0,2001.0,9.0,aesop rock,True
+1023,martina mcbride,i just call you mine,1,0.419,0.637,6,-5.552,1,0.0328,0.0409,0.0,0.13,0.212,148.134,1,2009.0,3.0,martina mcbride,True
+1024,moving ninja,lost tribe,0,0.788,0.714,1,-9.249,1,0.0975,0.00348,0.679,0.322,0.476,135.038,0,2005.0,7.0,moving ninja,True
+1027,legacy five,out of my darkness,0,0.705,0.528,1,-8.143,1,0.0472,0.558,0.0,0.104,0.644,180.061,0,2004.0,10.0,legacy five,True
+1030,bonnie raitt,love sneakin up on you,0,0.483,0.673,7,-8.105,1,0.0438,0.0217,6.53e-06,0.209,0.558,189.704,1,2003.0,1.0,bonnie raitt,True
+1032,liars,cycle time,0,0.11,0.801,2,-5.066,1,0.0698,0.154,0.0423,0.102,0.235,153.031,0,,,liars,False
+1040,u2,last night on earth,1,0.552,0.696,1,-8.374,1,0.0324,0.00661,0.00104,0.0721,0.52,116.175,1,1997.0,3.0,u2,True
+1044,k-ci & jojo,tell me its real,1,0.687,0.532,3,-6.763,1,0.0338,0.214,0.0,0.124,0.582,134.283,1,1999.0,1.0,k-ci,True
+1046,taal,noises,0,0.479,0.0493,5,-39.716,1,0.742,0.764,5.08e-06,0.17,0.602,112.969,0,2010.0,2.0,taal,True
+1048,funeral for a friend,juneau [live],0,0.322,0.937,8,-4.169,0,0.107,0.000118,0.000226,0.392,0.147,103.175,0,2015.0,6.0,funeral for a friend,True
+1050,electronic pig,electro nicpig,0,0.719,0.72,5,-7.072,1,0.112,0.00157,0.507,0.0919,0.625,138.029,0,2005.0,6.0,electronic pig,True
+1051,snowgoons,been fighting devilz,0,0.52,0.846,1,-5.138,1,0.327,0.123,0.0,0.297,0.876,125.55,0,2009.0,5.0,snowgoons,True
+1054,maurice chevalier,la romance de la pluie,0,0.523,0.135,10,-21.816,1,0.129,0.984,0.523,0.102,0.535,128.313,0,2007.0,11.0,maurice chevalier,True
+1056,rtz,until your love comes back around,0,0.55,0.534,8,-10.6,1,0.0331,0.229,0.0,0.0714,0.311,134.662,1,,,rtz,False
+1060,r. kelly,in the kitchen,1,0.713,0.469,5,-7.778,0,0.0436,0.415,0.0,0.0999,0.369,127.837,1,2005.0,6.0,r. kelly,True
+1067,jennifer lopez,talk about us,1,0.705,0.536,6,-6.707,1,0.0282,0.293,0.0,0.138,0.252,80.988,0,1999.0,6.0,jennifer lopez,True
+1071,the rock heroes,all summer long,0,0.603,0.885,7,-4.379,1,0.0328,0.00681,0.0,0.047,0.838,102.966,1,2009.0,1.0,the rock heroes,True
+1074,salt-n-pepa,gitty up,1,0.884,0.553,11,-6.514,1,0.071,0.0284,6.3e-06,0.0859,0.884,104.931,1,1997.0,10.0,salt-n-pepa,True
+1079,bruce springsteen,girls in their summer clothes,0,0.439,0.76,0,-4.383,1,0.0316,0.0319,0.0,0.119,0.673,113.102,1,2007.0,9.0,bruce springsteen,True
+1084,miossec,regarde un peu la france,0,0.58,0.804,4,-4.259,0,0.0357,0.0499,0.392,0.205,0.779,87.984,0,,,miossec,False
+1089,heavy d,chasing windmills,0,0.654,0.622,1,-10.628,1,0.275,0.176,0.0,0.326,0.738,79.998,0,2011.0,5.0,heavy d,True
+1092,van halen,cant stop lovin you,0,0.609,0.912,9,-3.324,1,0.0338,0.0734,3.1e-06,0.159,0.564,118.035,1,1995.0,1.0,van halen,True
+1101,loudon wainwright iii,how old are you,0,0.568,0.497,9,-14.49,1,0.0404,0.605,0.0,0.126,0.891,96.811,0,,,loudon wainwright iii,False
+1104,mavado,real mckoy feat. busy signal,0,0.745,0.623,7,-5.416,1,0.332,0.0113,0.0,0.0756,0.568,100.113,0,2007.0,7.0,mavado,True
+1106,amy winehouse,valerie,1,0.739,0.365,5,-5.731,0,0.0415,0.751,1.65e-06,0.161,0.699,96.095,0,2007.0,1.0,amy winehouse,True
+1107,george michael,too funky,1,0.659,0.893,1,-8.324,1,0.076,0.0211,0.308,0.72,0.756,98.262,1,1998.0,11.0,george michael,True
+1109,andreas dorau,so ist das nun mal,0,0.788,0.933,1,-4.431,1,0.0404,0.105,0.145,0.312,0.928,123.692,0,,,andreas dorau,False
+1117,vanessa williams,the sweetest days,0,0.474,0.313,10,-10.521,1,0.0287,0.749,0.000901,0.145,0.0692,139.734,1,1994.0,1.0,vanessa williams,True
+1119,reba mcentire,he gets that from me,0,0.646,0.416,10,-8.813,1,0.0285,0.643,7.47e-06,0.102,0.511,143.822,1,2008.0,1.0,reba mcentire,True
+1124,goddess,sexual,0,0.397,0.214,2,-14.417,0,0.0384,0.845,0.000657,0.28,0.252,101.518,1,2013.0,3.0,goddess,True
+1132,meat loaf,objects in the rear view mirror may appear closer than...,0,0.396,0.584,5,-5.568,1,0.0339,0.802,2.37e-06,0.133,0.338,120.461,1,,,meat loaf,False
+1135,white willow,the reach,0,0.325,0.313,2,-13.763,1,0.0425,0.07,0.174,0.353,0.0392,118.58,0,2014.0,9.0,white willow,True
+1140,rhian sheehan,existing alone,0,0.24,0.488,1,-16.478,1,0.136,0.752,0.634,0.119,0.0879,128.19,0,2001.0,7.0,rhian sheehan,True
+1143,skyforger,in the underworld,0,0.258,0.965,0,-4.237,1,0.137,5.67e-05,0.00926,0.353,0.224,101.703,0,2010.0,5.0,skyforger,True
+1154,strata,trio (1932)_ movement 3: moderato,0,0.273,0.133,7,-18.714,0,0.0458,0.962,0.013,0.0988,0.105,94.382,0,2008.0,4.0,strata,True
+1164,sick on the bus,who r ya,0,0.191,0.985,9,-4.082,0,0.382,0.000222,0.0113,0.0402,0.155,174.422,0,2002.0,10.0,sick on the bus,True
+1168,ricardo lemvo,yiri yiri bon,0,0.574,0.688,5,-8.41,0,0.0378,0.13,0.0,0.0699,0.793,87.823,0,2007.0,7.0,ricardo lemvo,True
+1185,gonzalo rubalcaba,infantil (dedicated to john mclaughlin),0,0.467,0.545,2,-11.89,1,0.0426,0.391,0.588,0.0973,0.371,127.85,0,,,gonzalo rubalcaba,False
+1188,busdriver,sun shower (single version),0,0.624,0.706,9,-7.098,1,0.0271,0.00521,0.00995,0.0977,0.403,129.995,0,2007.0,6.0,busdriver,True
+1207,the jane shermans,ammunition,0,0.531,0.86,9,-6.473,0,0.0407,8.82e-05,0.00891,0.0888,0.688,140.245,0,2008.0,1.0,the jane shermans,True
+1223,jewel,hands,0,0.634,0.571,5,-7.757,0,0.0285,0.501,0.00107,0.0938,0.262,127.222,1,,,jewel,False
+1224,snowgoons,real world,0,0.684,0.855,0,-5.372,1,0.034,0.000286,0.923,0.116,0.862,93.999,0,2009.0,3.0,snowgoons,True
+1225,tori amos,spark,0,0.351,0.738,4,-4.309,0,0.038,0.0797,5.21e-05,0.0829,0.475,138.025,1,1998.0,4.0,tori amos,True
+1229,torcuato mariano,black and blue,0,0.484,0.386,2,-11.991,0,0.0313,0.62,0.145,0.509,0.096,89.953,0,2008.0,8.0,torcuato mariano,True
+1232,delbert mcclinton,lose your money,0,0.71,0.799,9,-10.57,1,0.0369,0.364,0.000277,0.261,0.967,110.183,0,2011.0,7.0,delbert mcclinton,True
+1233,amy winehouse,you know im no good,0,0.705,0.806,9,-3.607,1,0.0309,0.0132,0.00428,0.0701,0.734,103.383,1,2006.0,1.0,amy winehouse,True
+1235,fugees,nappy heads,0,0.774,0.456,1,-16.027,1,0.326,0.137,6.88e-05,0.109,0.642,97.109,1,1994.0,2.0,fugees,True
+1236,rihanna,we ride,0,0.394,0.744,5,-5.465,0,0.276,0.00175,0.0,0.308,0.772,78.696,0,2006.0,4.0,rihanna,True
+1239,miranda lambert,the house that built me,1,0.515,0.3,5,-8.005,1,0.0289,0.575,8.46e-06,0.115,0.206,81.12,1,2009.0,9.0,miranda lambert,True
+1242,slick rick,kill niggaz,0,0.775,0.514,6,-7.412,1,0.189,0.0116,0.00662,0.328,0.839,92.532,0,1999.0,1.0,slick rick,True
+1243,3 of hearts,is it love,0,0.381,0.465,3,-8.523,1,0.0344,0.544,0.0,0.227,0.267,203.327,0,2001.0,7.0,3 of hearts,True
+1244,coco montoya,gotta mind to travel,0,0.45,0.883,5,-5.288,1,0.0464,0.00159,0.646,0.202,0.808,155.037,0,1995.0,4.0,coco montoya,True
+1246,stevie ray vaughan and double trouble,the house is rockin,0,0.336,0.909,4,-11.019,1,0.039,0.204,0.0211,0.333,0.956,172.162,0,,,stevie ray vaughan,False
+1247,glee cast,happy days are here again / get happy,1,0.36,0.362,8,-6.624,1,0.0303,0.845,0.0,0.0701,0.219,68.789,1,2010.0,10.0,glee cast,True
+1257,eluveitie,(do)minion,0,0.268,0.995,11,-4.582,0,0.14,0.00118,0.0359,0.537,0.0393,109.946,0,2010.0,2.0,eluveitie,True
+1258,sunscreem,exodus,0,0.637,0.597,7,-16.763,1,0.0381,0.32,0.167,0.0911,0.389,124.957,0,,,sunscreem,False
+1264,glee cast,welcome christmas,1,0.419,0.254,11,-9.302,1,0.0297,0.911,0.0,0.275,0.0819,110.822,1,2010.0,12.0,glee cast,True
+1266,glee cast,telephone,1,0.729,0.805,5,-5.183,0,0.0329,0.00363,3.08e-06,0.11,0.749,122.021,1,2010.0,9.0,glee cast,True
+1268,angels & airwaves,the adventure,0,0.539,0.857,11,-5.924,1,0.0455,0.0518,0.00119,0.128,0.209,144.129,1,2006.0,1.0,angels,True
+1270,rappin 4-tay,playaz club,0,0.868,0.372,4,-12.704,0,0.177,0.0103,0.00455,0.076,0.666,99.965,1,1994.0,1.0,rappin 4-tay,True
+1276,james newton howard,voices,0,0.22,0.128,1,-28.897,0,0.04,0.435,0.753,0.847,0.0379,87.362,0,2008.0,1.0,james newton howard,True
+1277,deadboy & the elephantmen,no rainbow,0,0.469,0.12,6,-10.161,1,0.0431,0.697,0.231,0.102,0.353,159.556,0,,,deadboy,False
+1278,json,take a look,0,0.554,0.781,1,-4.501,1,0.304,0.29,0.0,0.3,0.689,79.685,1,2005.0,5.0,json,True
+1279,bongzilla,666lb. bongsession,0,0.293,0.779,4,-6.717,1,0.0574,0.00404,0.817,0.134,0.172,132.29,0,2002.0,9.0,bongzilla,True
+1281,marcio faraco,sarapatel humano,0,0.828,0.406,0,-13.594,1,0.0598,0.557,0.299,0.0943,0.435,134.76,0,2003.0,6.0,marcio faraco,True
+1284,color me badd,all 4 love,0,0.807,0.75,2,-8.29,1,0.0315,0.0347,0.00017,0.149,0.797,106.389,1,1991.0,7.0,color me badd,True
+1287,rhian sheehan,degrees of freedom,0,0.702,0.512,11,-10.893,1,0.0397,0.434,0.848,0.132,0.648,107.995,0,,,rhian sheehan,False
+1288,goose,everybody,0,0.722,0.824,11,-1.926,0,0.223,0.00144,0.011,0.324,0.215,129.99,0,2006.0,9.0,goose,True
+1289,pride tiger,56 days,0,0.481,0.943,11,-2.041,1,0.0635,0.002,0.0,0.291,0.53,114.095,0,2007.0,1.0,pride tiger,True
+1291,arthur tracy,red sails in the sunset,0,0.267,0.19,7,-15.146,1,0.0355,0.994,0.0268,0.186,0.27,170.86,0,2010.0,10.0,arthur tracy,True
+1293,kathy mattea,sally in the garden,0,0.599,0.199,1,-15.699,0,0.127,0.965,0.924,0.0643,0.667,146.451,0,2008.0,4.0,kathy mattea,True
+1300,junior reid,no loafting,0,0.833,0.567,8,-8.631,0,0.16,0.0648,0.0,0.237,0.903,82.741,0,,,junior reid,False
+1304,martina mcbride,heart trouble,1,0.516,0.894,9,-6.571,1,0.0419,0.0416,0.000105,0.396,0.84,175.918,0,2012.0,10.0,martina mcbride,True
+1308,jennifer lopez,still,1,0.737,0.674,6,-5.196,1,0.0352,0.0513,0.000947,0.211,0.393,95.691,0,2002.0,11.0,jennifer lopez,True
+1313,cece winans,life,0,0.595,0.726,0,-7.679,1,0.0401,0.184,0.0,0.118,0.576,75.98,0,1994.0,1.0,cece winans,True
+1318,the black crowes,sting me,1,0.552,0.972,0,-3.744,1,0.0584,0.0068,0.0,0.123,0.639,129.309,0,1992.0,1.0,the black crowes,True
+1319,valient thorr,problem solver,0,0.519,0.896,4,-6.343,1,0.092,0.0109,2.66e-06,0.081,0.769,92.004,0,2006.0,7.0,valient thorr,True
+1323,samy deluxe,denk,0,0.493,0.893,1,-5.645,0,0.347,0.274,0.000163,0.255,0.636,70.858,0,2004.0,1.0,samy deluxe,True
+1327,miossec,que devient ton poing quand tu tends les doigts,0,0.782,0.531,9,-8.505,1,0.0495,0.544,0.00809,0.0935,0.781,103.006,0,,,miossec,False
+1332,da brat,thats what im looking for,1,0.929,0.728,1,-5.524,1,0.102,0.344,0.0,0.055,0.961,130.076,1,2000.0,4.0,da brat,True
+1333,glee cast,im a slave 4 u,1,0.909,0.779,0,-4.004,0,0.136,0.409,0.000681,0.0398,0.955,110.022,1,2010.0,9.0,glee cast,True
+1337,martina mcbride,pick me up on your way down,1,0.736,0.614,0,-6.185,1,0.0249,0.416,0.0,0.108,0.896,130.967,0,2005.0,10.0,martina mcbride,True
+1340,snowgoons,starlight,0,0.411,0.89,3,-2.898,0,0.357,0.0715,0.0,0.479,0.57,176.159,0,2015.0,8.0,snowgoons,True
+1343,da brat,fa all yall,0,0.875,0.68,10,-7.594,1,0.0844,0.0675,0.0,0.224,0.687,96.005,1,1994.0,6.0,da brat,True
+1347,glee cast,(ive had) the time of my life,1,0.459,0.77,9,-5.996,1,0.0472,0.0765,0.0,0.0879,0.168,110.705,1,2010.0,11.0,glee cast,True
+1354,rick ross,hustlin,0,0.505,0.657,9,-7.254,1,0.288,0.0898,0.0,0.0606,0.666,135.995,1,2006.0,1.0,rick ross,True
+1355,system of a down,streamline,0,0.395,0.855,0,-3.001,1,0.0356,0.000125,0.0333,0.16,0.472,130.892,0,2002.0,11.0,system of a down,True
+1358,james newton howard,the burp heard round the world,0,0.301,0.508,0,-9.654,1,0.0409,0.668,0.44,0.27,0.0546,84.245,0,2010.0,1.0,james newton howard,True
+1371,richard marx,take this heart,1,0.612,0.694,0,-8.277,1,0.026,0.00142,0.0012,0.0749,0.551,115.53,1,1997.0,1.0,richard marx,True
+1374,gisselle,tocame,0,0.8,0.916,9,-2.772,1,0.0646,0.4,0.0,0.181,0.894,136.916,0,1998.0,10.0,gisselle,True
+1378,owsley,class clown/good old days (reprise),0,0.223,0.684,9,-8.151,1,0.0409,0.00756,0.000272,0.262,0.183,191.973,0,1999.0,3.0,owsley,True
+1379,disturbed,stricken,0,0.404,0.969,8,-2.938,1,0.195,8.51e-05,0.0114,0.268,0.29,173.878,1,2005.0,9.0,disturbed,True
+1381,glee cast,like a virgin,1,0.678,0.845,4,-3.05,0,0.0475,0.0651,0.0,0.0841,0.763,119.999,1,2010.0,4.0,glee cast,True
+1383,big audio,the globe,0,0.917,0.603,2,-9.541,1,0.13,0.172,0.0,0.0489,0.696,113.951,1,1991.0,7.0,big audio,True
+1386,kalimba,al final,0,0.365,0.689,10,-5.653,1,0.0507,0.495,1.21e-06,0.967,0.496,149.939,0,2009.0,12.0,kalimba,True
+1388,meat loaf,rock and roll dreams come through,1,0.565,0.884,0,-3.304,1,0.0335,0.186,0.000101,0.211,0.487,112.24,1,,,meat loaf,False
+1394,rachel portman,the letters,0,0.219,0.0365,9,-25.514,0,0.0385,0.96,0.186,0.0886,0.0492,113.068,0,2008.0,1.0,rachel portman,True
+1395,mystikal,bouncin back (bumpin me against the wall),0,0.883,0.896,0,-3.695,1,0.208,0.268,1.04e-06,0.0564,0.748,93.928,1,2001.0,12.0,mystikal,True
+1397,black eyed peas,tell your momma come,0,0.863,0.887,2,-5.241,1,0.123,0.164,0.0,0.166,0.865,102.134,0,2000.0,1.0,black eyed peas,True
+1399,kings of leon,wicker chair,0,0.645,0.704,0,-5.437,1,0.0309,0.0592,0.0,0.17,0.475,116.818,0,2003.0,2.0,kings of leon,True
+1404,session americana,ice cream man,0,0.577,0.619,7,-8.004,1,0.0581,0.613,0.000151,0.232,0.958,141.207,0,2007.0,1.0,session americana,True
+1405,pascal sangla,assis par terre,0,0.524,0.531,4,-10.911,1,0.0366,0.576,0.000412,0.0625,0.605,90.098,0,2010.0,2.0,pascal sangla,True
+1408,glee cast,gives you hell,1,0.752,0.605,6,-5.569,0,0.032,0.0807,0.0,0.112,0.789,100.007,1,2010.0,5.0,glee cast,True
+1411,shaggy,oh carolina,0,0.816,0.913,5,-5.042,0,0.0997,0.469,0.0,0.331,0.915,124.578,1,2008.0,1.0,shaggy,True
+1420,phantom planet,after hours,0,0.591,0.798,4,-6.007,1,0.0426,0.00108,5.55e-05,0.174,0.553,113.863,0,2004.0,3.0,phantom planet,True
+1430,melissa etheridge,come to my window,1,0.512,0.636,7,-9.602,1,0.0262,0.08,0.000106,0.088,0.499,97.257,1,1993.0,1.0,melissa etheridge,True
+1434,jennifer lopez featuring fat joe,hold you down,0,0.674,0.485,10,-12.443,1,0.32,0.00717,0.0,0.106,0.527,85.265,1,2005.0,2.0,jennifer lopez,True
+1443,cypress hill,insane in the brain,0,0.897,0.612,11,-10.489,1,0.211,0.0297,0.186,0.0894,0.767,102.305,1,1993.0,7.0,cypress hill,True
+1449,miranda lambert,more like her,0,0.556,0.393,11,-6.589,1,0.025,0.238,0.0,0.0979,0.213,132.746,1,2007.0,5.0,miranda lambert,True
+1450,white willow,the dark road,0,0.515,0.504,2,-6.936,1,0.0277,0.108,0.000127,0.126,0.143,112.959,0,,,white willow,False
+1452,kalimba,no volveras a mi,0,0.723,0.567,7,-6.214,1,0.0316,0.206,4.26e-05,0.121,0.831,134.004,0,,,kalimba,False
+1461,m2m,mirror mirror,0,0.696,0.685,1,-5.53,0,0.0246,0.218,0.0,0.0988,0.507,100.088,1,2000.0,2.0,m2m,True
+1469,martina mcbride,anyway,1,0.523,0.521,5,-6.756,1,0.026,0.179,1.44e-05,0.102,0.288,137.016,1,,,martina mcbride,False
+1474,geier sturzflug,schwarzarbeit,0,0.746,0.939,10,-4.589,1,0.0327,0.0153,0.0,0.401,0.992,116.039,0,2010.0,6.0,geier sturzflug,True
+1480,rise against,swing life away,0,0.477,0.426,6,-6.961,1,0.043,0.544,0.0,0.0903,0.789,184.866,0,2004.0,1.0,rise against,True
+1482,luther vandross,your secret love,1,0.658,0.688,5,-7.049,0,0.0297,0.191,1.33e-06,0.173,0.424,143.783,1,1996.0,10.0,luther vandross,True
+1486,heavy d,private dancer,0,0.54,0.734,2,-5.789,1,0.237,0.108,0.0,0.0503,0.719,76.563,0,2008.0,9.0,heavy d,True
+1490,amorphis,and i hear you call,0,0.192,0.984,0,-4.579,1,0.115,0.00146,0.341,0.126,0.248,133.916,0,1997.0,5.0,amorphis,True
+1492,twila paris,perfect peace,0,0.49,0.2,3,-13.842,1,0.0277,0.927,9.92e-05,0.125,0.209,101.975,0,2001.0,1.0,twila paris,True
+1494,eluveitie,primordial breath,0,0.387,0.996,11,-3.028,0,0.0853,0.0001,0.00225,0.332,0.0376,95.012,0,2008.0,2.0,eluveitie,True
+1502,black debbath,ville eyolf,0,0.294,0.677,11,-5.123,0,0.0369,0.00469,0.0,0.263,0.326,168.13,0,2006.0,8.0,black debbath,True
+1508,open hand,never alone,0,0.243,0.8,9,-7.798,0,0.148,0.0596,0.117,0.377,0.177,86.235,0,2003.0,1.0,open hand,True
+1517,kathy mattea,the southern soldier boy,0,0.483,0.269,11,-12.193,0,0.0276,0.786,0.0,0.181,0.413,96.914,0,1991.0,8.0,kathy mattea,True
+1520,aesop rock,coma,0,0.787,0.721,5,-7.965,0,0.314,0.122,5.69e-06,0.226,0.87,173.991,0,2001.0,9.0,aesop rock,True
+1526,rise against,amber changing,0,0.315,0.968,10,-3.554,0,0.139,0.000177,9.38e-05,0.129,0.518,105.692,0,2013.0,5.0,rise against,True
+1535,anita baker,body & soul,0,0.537,0.474,1,-8.549,0,0.0344,0.618,0.0,0.193,0.275,109.09,1,2017.0,4.0,anita baker,True
+1536,jennifer lopez,baby i love u,1,0.832,0.688,2,-6.346,1,0.0468,0.018,0.207,0.0596,0.399,111.965,1,2002.0,11.0,jennifer lopez,True
+1537,abraham laboriel,guidum,0,0.447,0.395,0,-10.671,0,0.0359,0.0343,0.546,0.12,0.316,111.014,0,1995.0,1.0,abraham laboriel,True
+1542,colin james,better days,0,0.678,0.499,10,-8.661,1,0.0465,0.338,6.38e-05,0.12,0.87,154.479,0,1995.0,1.0,colin james,True
+1563,steve morse,prognosis,0,0.338,0.665,4,-8.118,1,0.0282,0.0126,0.834,0.0857,0.415,169.976,0,,,steve morse,False
+1565,rihanna,unfaithful,0,0.588,0.391,0,-8.607,0,0.0334,0.839,0.0,0.227,0.349,144.069,1,2006.0,4.0,rihanna,True
+1569,for squirrels,superstar,0,0.193,0.974,9,-4.842,1,0.0609,0.000285,0.0,0.145,0.639,162.597,0,1995.0,10.0,for squirrels,True
+1571,newfound road,brand new broken heart,0,0.59,0.845,7,-5.006,1,0.032,0.623,0.167,0.332,0.86,111.473,0,2009.0,1.0,newfound road,True
+1572,maxi priest,groovin in the midnight,1,0.652,0.645,10,-8.482,0,0.0414,0.0401,2.29e-05,0.0739,0.555,92.945,1,2008.0,1.0,maxi priest,True
+1574,snow,informer,1,0.763,0.742,6,-10.975,0,0.188,0.0984,0.0,0.38,0.483,98.145,1,,,snow,False
+1577,glee cast,bust a move,1,0.923,0.925,9,-4.966,1,0.093,0.1,8.09e-05,0.123,0.708,118.994,1,2009.0,11.0,glee cast,True
+1584,kool keith,wanna be a star,0,0.806,0.87,0,-3.257,1,0.248,0.516,0.101,0.106,0.5,90.52,0,,,kool keith,False
+1594,dee clark,just keep it up,0,0.665,0.334,10,-15.25,1,0.0542,0.628,0.0,0.0742,0.915,95.958,0,1993.0,1.0,dee clark,True
+1598,paul cantelon,mary in labor,0,0.221,0.201,4,-20.712,1,0.0378,0.875,0.944,0.158,0.036,66.545,0,2008.0,1.0,paul cantelon,True
+1600,abraham laboriel,exchange,0,0.6,0.665,11,-8.665,0,0.0301,0.174,0.511,0.0448,0.969,139.807,0,1995.0,1.0,abraham laboriel,True
+1608,glee cast,"hello, i love you",1,0.375,0.856,11,-6.113,0,0.078,5.31e-05,0.000693,0.238,0.672,117.109,1,2010.0,4.0,glee cast,True
+1612,loudon wainwright iii,rowena,0,0.504,0.0787,0,-19.687,1,0.0384,0.905,5.89e-05,0.134,0.15,69.255,0,2018.0,9.0,loudon wainwright iii,True
+1616,50 cent,wanksta,1,0.81,0.868,1,-3.521,1,0.156,0.0224,0.0,0.145,0.884,81.018,1,2003.0,1.0,50 cent,True
+1620,capone-n-noreaga,beef,0,0.391,0.781,0,-4.931,0,0.309,0.0497,8.02e-06,0.396,0.341,158.535,0,2009.0,3.0,capone-n-noreaga,True
+1632,danity kane,damaged,0,0.774,0.653,8,-5.158,0,0.05,0.0912,0.0,0.151,0.818,120.01,1,2008.0,3.0,danity kane,True
+1633,delbert mcclinton,lover in demand,0,0.502,0.588,5,-9.197,1,0.0463,0.799,0.0,0.122,0.865,112.526,0,2009.0,7.0,delbert mcclinton,True
+1634,shaggy,criteria,0,0.842,0.776,1,-6.91,0,0.0607,0.0733,0.0,0.0589,0.651,99.975,0,,,shaggy,False
+1643,marlene dietrich,auf der mundharmonika,0,0.395,0.202,4,-15.559,0,0.0343,0.896,3.12e-05,0.353,0.383,56.607,0,1991.0,1.0,marlene dietrich,True
+1644,irma thomas,river is waiting,0,0.431,0.586,3,-7.875,1,0.0304,0.632,0.000126,0.16,0.748,150.281,0,2008.0,1.0,irma thomas,True
+1646,4him,you are holy,0,0.567,0.551,0,-9.662,1,0.0272,0.346,0.0,0.102,0.247,139.94,0,,,4him,False
+1653,brenda lee,everybody loves me but you,0,0.665,0.101,7,-15.098,1,0.0379,0.848,1.88e-06,0.382,0.529,107.042,0,1991.0,1.0,brenda lee,True
+1660,big star,till the end of the day (alternate mix),0,0.515,0.826,2,-8.639,0,0.0462,0.00455,1.04e-06,0.356,0.728,144.628,0,2009.0,9.0,big star,True
+1670,arthur tracy,so do i,0,0.21,0.17,0,-15.973,1,0.0422,0.982,0.919,0.0906,0.235,78.912,0,2010.0,10.0,arthur tracy,True
+1672,queens of the stone age,little sister,0,0.359,0.956,1,-2.942,1,0.062,0.0118,0.000822,0.511,0.924,161.132,1,2005.0,1.0,queens of the stone age,True
+1673,neviss,epilog,0,0.814,0.0649,0,-24.801,0,0.951,0.934,0.0209,0.587,0.73,100.539,0,2003.0,9.0,neviss,True
+1675,tyr,grial ii,0,0.253,0.945,0,-6.396,0,0.188,0.000371,0.000173,0.159,0.132,147.613,0,2001.0,1.0,tyr,True
+1678,grandpa jones,falling leaves,0,0.568,0.325,9,-8.824,1,0.0297,0.768,0.0,0.219,0.787,124.462,0,1992.0,1.0,grandpa jones,True
+1679,johannes linstead,guayabera,0,0.955,0.885,0,-6.919,0,0.0705,0.608,0.707,0.0522,0.715,114.995,0,2003.0,1.0,johannes linstead,True
+1684,dishwalla,counting blue cars,0,0.461,0.802,2,-4.279,1,0.029,0.0105,2.18e-05,0.253,0.384,100.179,1,1995.0,1.0,dishwalla,True
+1685,astarte,risen from within,0,0.535,0.67,4,-6.222,0,0.0236,0.0282,0.0364,0.0936,0.265,80.903,0,2017.0,9.0,astarte,True
+1686,marcus miller,3 deuces,0,0.84,0.368,0,-8.775,1,0.0507,0.0369,0.784,0.0749,0.725,92.018,0,2001.0,1.0,marcus miller,True
+1697,sarah mclachlan,i will remember you (live),1,0.449,0.487,9,-9.967,1,0.031,0.47,0.000129,0.691,0.389,76.487,1,,,sarah mclachlan,False
+1705,flyleaf,all around me,0,0.479,0.884,9,-4.762,1,0.0483,0.0338,0.0,0.0802,0.452,146.922,1,,,flyleaf,False
+1709,chris cagle,laredo,0,0.47,0.794,1,-5.784,1,0.0438,0.16,0.0,0.0927,0.673,159.983,1,2010.0,1.0,chris cagle,True
+1711,christina perri,jar of hearts,0,0.349,0.348,3,-6.142,1,0.0316,0.726,0.0,0.12,0.0886,74.541,1,2011.0,5.0,christina perri,True
+1717,jennifer lopez,por arriesgarnos,1,0.377,0.481,4,-9.676,1,0.0507,0.663,0.0,0.0965,0.197,150.514,0,2007.0,3.0,jennifer lopez,True
+1719,kathy troccoli,tell me where it hurts,0,0.652,0.603,7,-6.903,1,0.0247,0.293,0.0,0.0816,0.353,90.997,1,1994.0,6.0,kathy troccoli,True
+1723,keb mo,the door,0,0.705,0.669,9,-6.66,1,0.0462,0.0408,0.00497,0.979,0.501,99.872,0,2016.0,4.0,keb mo,True
+1725,every time i die,depressionista,0,0.425,0.955,9,-5.295,1,0.0442,0.000308,0.0,0.0745,0.546,95.639,0,2007.0,9.0,every time i die,True
+1728,bongzilla,witch weed (live),0,0.115,0.905,9,-7.437,1,0.131,0.000188,0.209,0.189,0.193,83.979,0,2007.0,6.0,bongzilla,True
+1743,nick colionne,if you ask me,0,0.697,0.787,11,-6.946,1,0.027,0.369,0.803,0.302,0.937,101.99,0,2006.0,1.0,nick colionne,True
+1754,little feat,down on the farm (2006 remastered edit version),0,0.712,0.648,7,-9.632,1,0.0251,0.207,0.00193,0.0685,0.751,97.346,0,2006.0,9.0,little feat,True
+1756,chuck wicks,if we loved,0,0.307,0.714,1,-4.969,1,0.0395,0.288,1.43e-05,0.11,0.301,198.155,0,,,chuck wicks,False
+1757,mannheim steamroller,the christmas song,0,0.488,0.324,1,-12.472,1,0.025,0.481,0.0,0.136,0.205,96.032,0,,,mannheim steamroller,False
+1759,samy deluxe,die meisten,0,0.694,0.853,1,-7.731,1,0.274,0.0136,0.0,0.0312,0.932,171.706,0,2001.0,1.0,samy deluxe,True
+1772,r. kelly,thoia thoing,1,0.582,0.642,1,-4.925,1,0.307,0.274,2.98e-05,0.0717,0.936,85.565,1,,,r. kelly,False
+1774,john forte,ninety nine [flash the message],0,0.882,0.52,4,-10.899,0,0.315,0.0589,0.0,0.313,0.447,96.846,1,1998.0,5.0,john forte,True
+1780,strata,night falls (the weight of it),0,0.292,0.963,5,-3.748,0,0.106,0.0225,0.000247,0.197,0.303,125.374,0,2007.0,1.0,strata,True
+1795,tyrone wells,need,0,0.55,0.525,8,-6.673,0,0.0464,0.0725,0.0,0.0931,0.366,159.932,0,2006.0,1.0,tyrone wells,True
+1801,jaime urrutia,azzurro,0,0.7,0.875,5,-5.979,0,0.0441,0.00953,0.0,0.3,0.707,120.157,0,2005.0,9.0,jaime urrutia,True
+1803,jonas brothers,bb good,1,0.656,0.901,4,-5.213,1,0.0398,0.0294,0.000139,0.0546,0.891,135.009,1,2008.0,8.0,jonas brothers,True
+1805,kings of leon,genius,0,0.442,0.83,7,-5.978,1,0.0478,0.0275,0.0,0.218,0.506,125.554,0,2003.0,8.0,kings of leon,True
+1807,vhs or beta,forever,0,0.575,0.894,1,-6.187,0,0.0305,0.000138,0.252,0.124,0.452,123.873,0,2004.0,1.0,vhs or beta,True
+1808,n.w.a.,approach to danger (edited),0,0.606,0.994,6,-4.593,1,0.405,0.0781,7.51e-06,0.221,0.346,94.916,0,2006.0,12.0,n.w.a.,True
+1812,akon,dont matter,0,0.79,0.457,2,-6.231,1,0.0414,0.24,0.0,0.222,0.355,125.249,1,2006.0,1.0,akon,True
+1815,open hand,the ambush,0,0.324,0.844,6,-5.902,0,0.055,0.0392,0.0,0.429,0.454,154.082,0,2005.0,2.0,open hand,True
+1817,color me badd,i adore mi amor,1,0.683,0.476,3,-9.995,0,0.027,0.243,0.0,0.0786,0.725,91.989,1,1991.0,7.0,color me badd,True
+1828,glee cast,its my life / confessions part ii,1,0.586,0.882,11,-3.794,0,0.0487,0.0385,0.0,0.32,0.706,131.008,1,2009.0,10.0,glee cast,True
+1849,breaking benjamin,so cold,1,0.485,0.776,0,-5.472,0,0.0525,0.00225,0.000102,0.124,0.26,153.055,1,2011.0,1.0,breaking benjamin,True
+1851,irwin goodman,yhteinen koti,0,0.64,0.583,2,-12.366,1,0.103,0.464,1e-06,0.176,0.631,94.996,0,2016.0,5.0,irwin goodman,True
+1852,jeff wahl,waterfall,0,0.708,0.795,4,-12.001,1,0.067,0.959,0.934,0.111,0.382,127.341,0,,,jeff wahl,False
+1853,sophie b. hawkins,i want you,0,0.474,0.468,11,-11.424,1,0.0543,0.604,0.0399,0.0707,0.308,98.443,0,1992.0,4.0,sophie b. hawkins,True
+1854,hi-five,i cant wait another minute,1,0.625,0.644,8,-8.801,1,0.0287,0.357,0.0,0.102,0.638,147.435,1,,,hi-five,False
+1857,maxi priest,caution,0,0.722,0.578,0,-12.254,1,0.0695,0.00442,0.000104,0.236,0.803,167.679,0,1991.0,1.0,maxi priest,True
+1858,grizzly bear,deep blue sea (daniel rossen home recording),0,0.539,0.0971,4,-12.93,1,0.0384,0.815,0.137,0.154,0.171,85.04,0,2007.0,11.0,grizzly bear,True
+1859,cirrus,boomerang (reprise),0,0.598,0.965,5,-6.7,1,0.0452,0.00961,0.662,0.146,0.402,90.017,0,2002.0,1.0,cirrus,True
+1861,piero umiliani,apertura in jazz,0,0.443,0.173,5,-13.035,1,0.0412,0.948,0.37,0.0922,0.132,119.602,0,2009.0,11.0,piero umiliani,True
+1865,marcus miller,outro duction,0,0.761,0.463,9,-13.165,1,0.241,0.00585,0.858,0.135,0.0375,98.0,0,2005.0,3.0,marcus miller,True
+1869,jars of clay,love me,1,0.476,0.929,2,-4.949,1,0.0528,0.000945,0.000409,0.0972,0.425,127.977,0,2006.0,8.0,jars of clay,True
+1879,martina mcbride,(i never promised you a) rose garden,1,0.577,0.728,2,-6.944,1,0.0478,0.503,0.0,0.133,0.78,131.908,1,2012.0,10.0,martina mcbride,True
+1880,sportsguitar,fish,0,0.573,0.687,4,-6.887,1,0.0294,0.0604,0.658,0.0987,0.547,142.859,0,,,sportsguitar,False
+1881,u2,even better than the real thing,1,0.505,0.759,7,-6.871,1,0.0303,0.00112,0.000365,0.168,0.65,128.63,1,1991.0,11.0,u2,True
+1885,the black crowes,roll old jeremiah,1,0.505,0.507,7,-12.144,1,0.0292,0.16,0.00525,0.127,0.766,89.204,0,2009.0,8.0,the black crowes,True
+1892,rise against,everchanging,0,0.544,0.381,11,-6.111,1,0.0341,0.519,1.46e-06,0.116,0.233,120.025,0,2013.0,1.0,rise against,True
+1893,nelly furtado,turn off the light,0,0.712,0.673,2,-6.257,1,0.0553,0.0709,0.000205,0.458,0.696,90.164,1,2000.0,1.0,nelly furtado,True
+1897,patti smith,wing,0,0.524,0.172,2,-16.368,1,0.0262,0.754,0.000708,0.224,0.137,146.343,0,,,patti smith,False
+1912,jimi hendrix,voodoo chile blues,0,0.352,0.587,0,-12.272,1,0.101,0.0734,0.711,0.266,0.412,164.662,0,1994.0,4.0,jimi hendrix,True
+1915,butthole surfers,tongue,0,0.308,0.752,1,-9.874,1,0.0522,0.000913,0.0376,0.43,0.202,128.169,0,1993.0,1.0,butthole surfers,True
+1920,francis lai,13 jours en france,0,0.16,0.312,7,-12.916,0,0.0319,0.953,0.764,0.161,0.184,96.489,0,2007.0,7.0,francis lai,True
+1922,scar symmetry,the three-dimensional shadow,0,0.532,0.984,1,-3.435,1,0.101,1.62e-05,0.102,0.36,0.384,110.03,0,2008.0,6.0,scar symmetry,True
+1930,breaking benjamin,i will not bow,1,0.543,0.952,8,-3.65,1,0.0668,0.000192,7.8e-06,0.38,0.591,107.942,1,2009.0,1.0,breaking benjamin,True
+1933,da youngstas,hip hop ride,0,0.788,0.589,1,-8.996,1,0.0909,0.00021,0.00124,0.0665,0.486,96.969,1,,,da youngstas,False
+1943,kelly rowland,stole,0,0.649,0.718,7,-4.984,0,0.0594,0.00676,4.26e-06,0.174,0.477,79.993,1,2002.0,10.0,kelly rowland,True
+1944,negura bunget,al doilea om,0,0.262,0.4,2,-20.736,1,0.0416,0.878,0.807,0.109,0.0574,98.204,0,2003.0,1.0,negura bunget,True
+1947,all-4-one,i swear,1,0.532,0.407,6,-9.658,0,0.0233,0.235,0.0,0.117,0.23,83.207,1,2005.0,4.0,all-4-one,True
+1953,m83,let men burn stars,0,0.244,0.583,9,-11.303,0,0.0471,0.853,0.985,0.0946,0.275,135.178,0,,,m83,False
+1955,rod stewart,rhythm of my heart,0,0.582,0.54,1,-11.021,1,0.0321,0.0621,0.0,0.178,0.433,94.955,1,,,rod stewart,False
+1956,luis fonsi,nada es para siempre,0,0.524,0.516,4,-8.342,0,0.0426,0.238,0.0,0.119,0.457,155.964,1,2005.0,1.0,luis fonsi,True
+1959,firehouse,reach for the sky,0,0.562,0.891,1,-8.283,1,0.0361,1.21e-05,0.0588,0.0858,0.524,132.569,1,1992.0,3.0,firehouse,True
+1963,glee cast,endless love,1,0.239,0.471,10,-7.593,1,0.0306,0.763,3.31e-05,0.106,0.151,86.812,1,2009.0,12.0,glee cast,True
+1966,otis taylor,round and round,0,0.631,0.794,4,-5.384,1,0.168,0.782,0.279,0.245,0.966,111.527,0,,,otis taylor,False
+1970,black debbath,where to piss and shit in oslo,0,0.486,0.889,5,-5.265,0,0.0516,0.00229,0.00174,0.15,0.656,132.332,0,,,black debbath,False
+1973,dj godfather,from da back,0,0.815,0.871,10,-7.061,0,0.271,0.00133,0.00184,0.129,0.963,166.52,0,2000.0,12.0,dj godfather,True
+1978,snoop dogg,from tha chuuuch to da palace,1,0.78,0.675,1,-5.568,1,0.279,0.257,0.0,0.0808,0.681,96.88,1,2005.0,1.0,snoop dogg,True
+1979,jonell & method man,round and round,0,0.637,0.655,8,-6.576,1,0.283,0.534,8.12e-06,0.142,0.739,92.644,1,2002.0,1.0,jonell,True
+1982,glee cast,keep holding on,0,0.311,0.637,7,-6.303,1,0.0347,0.175,0.0,0.483,0.102,160.745,1,2009.0,11.0,glee cast,True
+1983,novaspace,dancing with tears in my eyes 2004 (nova mix (club version)),0,0.606,0.956,6,-8.481,0,0.0502,0.000197,0.654,0.107,0.364,140.01,0,2004.0,10.0,novaspace,True
+1984,plasmatics,lightning breaks,0,0.456,0.792,9,-5.262,0,0.0491,0.127,0.0,0.245,0.485,134.118,0,,,plasmatics,False
+1986,naughty by nature,o.p.p.,0,0.848,0.838,4,-11.949,0,0.0723,0.0326,4.63e-06,0.124,0.774,97.735,1,1991.0,9.0,naughty by nature,True
+1991,martina mcbride,where would you be,1,0.523,0.668,8,-6.646,1,0.0332,0.0607,3.23e-06,0.0353,0.278,128.092,1,2012.0,10.0,martina mcbride,True
+2000,kings of leon,use somebody,0,0.276,0.715,0,-5.356,1,0.0432,0.00552,0.000417,0.201,0.173,137.028,1,2008.0,9.0,kings of leon,True
+2004,sum 41,fat lip,0,0.574,0.911,9,-5.176,1,0.0715,0.000618,0.0,0.0769,0.573,98.075,1,2001.0,1.0,sum 41,True
+2005,oldelaf et monsieur d,ouragan,0,0.507,0.00279,0,-10.091,0,0.0769,0.738,0.000152,0.175,0.973,120.329,0,,,oldelaf et monsieur d,False
+2006,ozzy osbourne,"mama, im coming home",1,0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0,0.0892,0.242,139.352,1,1991.0,9.0,ozzy osbourne,True
+2008,otis taylor,talking about it blues,0,0.473,0.819,4,-11.178,1,0.0342,0.702,0.948,0.139,0.679,148.185,0,2009.0,1.0,otis taylor,True
+2009,kenny rogers,reuben james,0,0.502,0.735,4,-12.342,1,0.155,0.0939,0.0,0.266,0.891,203.162,0,1993.0,1.0,kenny rogers,True
+2011,glee cast,"its a mans, mans mans world",1,0.645,0.375,3,-6.138,0,0.0279,0.729,2.16e-05,0.102,0.534,81.027,1,2010.0,6.0,glee cast,True
+2016,fito paez,tercer mundo,0,0.747,0.78,7,-6.597,1,0.222,0.334,0.0,0.714,0.738,97.859,0,1990.0,6.0,fito paez,True
+2020,zombina & the skeletones,the waiting,0,0.245,0.836,10,-5.264,1,0.0625,6.6e-06,0.576,0.526,0.219,93.03,0,2006.0,12.0,zombina,True
+2021,the who,sodding about,0,0.466,0.763,2,-7.393,0,0.0325,4.08e-06,0.753,0.539,0.722,120.61,0,,,the who,False
+2022,fergie,clumsy,1,0.728,0.582,2,-4.141,1,0.158,0.196,0.000632,0.304,0.417,184.045,1,2006.0,1.0,fergie,True
+2031,george michael,praying for time,1,0.581,0.622,10,-14.878,1,0.0354,0.0471,0.0162,0.0915,0.257,127.814,0,2017.0,10.0,george michael,True
+2032,the exciters,reaching for the best,0,0.733,0.724,0,-8.032,1,0.0302,0.0178,0.0,0.383,0.85,137.431,0,2007.0,6.0,the exciters,True
+2033,taking dawn,black diamond,0,0.44,0.911,7,-4.568,0,0.0779,0.0192,0.0165,0.108,0.128,144.985,0,2010.0,1.0,taking dawn,True
+2037,the jeff healey band,it could all get blown away,0,0.503,0.738,7,-6.643,0,0.034,0.00428,0.000109,0.197,0.635,94.447,0,1992.0,11.0,the jeff healey band,True
+2040,macy gray,i try,0,0.593,0.642,2,-7.284,1,0.0299,0.313,0.000582,0.0804,0.736,76.403,1,1999.0,7.0,macy gray,True
+2041,jeff scott soto,2 late 4 goodbyes,0,0.427,0.872,6,-4.724,1,0.0507,0.0026,0.0,0.297,0.373,124.658,0,2005.0,11.0,jeff scott soto,True
+2051,phantom planet,the meantime,0,0.471,0.978,11,-3.124,0,0.12,4.86e-05,0.105,0.285,0.333,132.809,0,2004.0,3.0,phantom planet,True
+2053,hi-five,quality time,0,0.644,0.674,6,-6.998,1,0.0345,0.0761,0.0,0.0659,0.656,155.907,1,,,hi-five,False
+2057,north mississippi allstars,2stepn,0,0.703,0.935,0,-8.062,1,0.0423,0.216,2.57e-05,0.327,0.97,124.973,0,,,north mississippi allstars,False
+2063,from autumn to ashes,iv,0,0.219,0.21,4,-11.314,0,0.0363,0.873,0.88,0.237,0.158,97.021,0,,,from autumn to ashes,False
+2064,astarte,oblivious darkness,0,0.368,0.979,4,-4.381,0,0.137,0.0478,0.593,0.345,0.152,128.959,0,2018.0,2.0,astarte,True
+2071,vilma palma e vampiros,te quiero tanto,0,0.754,0.768,7,-6.25,1,0.0516,0.0624,0.0,0.257,0.768,127.852,0,2003.0,7.0,vilma palma e vampiros,True
+2073,shelly manne,get me to the church on time,0,0.458,0.197,7,-25.713,1,0.044,0.67,0.92,0.0912,0.541,122.954,0,1990.0,1.0,shelly manne,True
+2076,lenny kravitz,american woman,1,0.688,0.67,1,-7.872,1,0.0971,0.0304,0.0,0.0782,0.537,83.988,1,1998.0,5.0,lenny kravitz,True
+2078,rihanna,music of the sun,0,0.535,0.643,0,-8.182,1,0.155,0.112,0.0,0.281,0.632,171.884,0,2005.0,8.0,rihanna,True
+2079,poison,ride the wind,1,0.551,0.969,6,-2.41,1,0.0373,0.0727,7.55e-05,0.0991,0.431,136.507,1,,,poison,False
+2082,gob,face the ashes,0,0.525,0.918,2,-4.512,1,0.0543,0.000356,0.566,0.0904,0.655,129.727,0,,,gob,False
+2084,c.c. adcock,loaded gun,0,0.723,0.791,9,-7.567,0,0.0415,0.0126,0.0215,0.0943,0.89,116.011,0,2004.0,10.0,c.c. adcock,True
+2088,cece peniston,keep on walkin,0,0.774,0.705,6,-12.064,1,0.0448,0.00279,0.0128,0.247,0.63,104.983,1,1992.0,1.0,cece peniston,True
+2099,stars like fleas,you are my memoir,0,0.563,0.738,5,-6.986,1,0.0265,0.316,0.111,0.35,0.528,103.965,0,2008.0,6.0,stars like fleas,True
+2101,colin james,sending a message,0,0.562,0.762,11,-7.289,1,0.0903,0.202,0.000553,0.0586,0.599,149.47,0,2003.0,9.0,colin james,True
+2105,bullet for my valentine,4 words (to choke upon),0,0.379,0.95,8,-2.895,1,0.0845,8.79e-05,0.000309,0.109,0.316,92.489,0,2007.0,6.0,bullet for my valentine,True
+2116,joe rogan,telepathy/ted haggard got cured of the gay,0,0.59,0.961,6,-2.587,0,0.836,0.721,0.0,0.916,0.414,88.165,0,,,joe rogan,False
+2119,glee cast featuring jonathan groff,hello,1,0.586,0.3,7,-9.517,0,0.0335,0.812,0.0,0.117,0.319,121.766,1,2010.0,5.0,glee cast,True
+2120,primordial,here i am king,0,0.0907,0.836,9,-5.414,0,0.0623,1.35e-06,0.955,0.277,0.153,87.5,0,2009.0,3.0,primordial,True
+2122,changing faces,foolin around,0,0.591,0.574,5,-8.276,0,0.0269,0.228,1.43e-05,0.0794,0.229,131.495,1,1994.0,8.0,changing faces,True
+2126,selena gomez & the scene,a year without rain,1,0.629,0.806,2,-5.264,0,0.0442,0.0102,1.72e-05,0.112,0.409,119.966,1,2010.0,1.0,selena gomez,True
+2129,goodie mob,soul food,0,0.927,0.495,4,-8.778,0,0.304,0.0689,8.62e-05,0.0826,0.618,96.372,1,1995.0,11.0,goodie mob,True
+2134,michael w. smith,i will be here for you,1,0.425,0.519,9,-9.707,1,0.0279,0.185,0.0,0.102,0.208,143.887,1,1993.0,1.0,michael w. smith,True
+2142,seether,fine again,0,0.445,0.856,6,-2.978,0,0.0287,0.000501,0.0113,0.232,0.38,175.542,1,2002.0,1.0,seether,True
+2148,no mercy,when i die,1,0.702,0.495,1,-8.73,1,0.0608,0.365,8.34e-06,0.124,0.817,147.914,1,,,no mercy,False
+2152,primordial,the burning season (live),0,0.139,0.818,3,-9.799,1,0.105,2.11e-05,0.339,0.789,0.11,98.993,0,,,primordial,False
+2161,joe jonas,gotta find you,0,0.441,0.74,11,-5.108,1,0.0356,0.0712,0.0,0.0806,0.45,82.049,1,2008.0,1.0,joe jonas,True
+2162,glee cast,taking chances,1,0.261,0.501,7,-7.805,1,0.0407,0.0899,0.0,0.154,0.363,174.728,1,2009.0,11.0,glee cast,True
+2165,brian tyler,festival of holi,0,0.687,0.64,11,-14.706,1,0.109,0.137,0.868,0.292,0.575,91.997,0,,,brian tyler,False
+2168,kenny rogers,love is what we make it,0,0.494,0.265,5,-16.899,1,0.0335,0.383,0.0,0.0964,0.238,137.549,0,,,kenny rogers,False
+2175,george michael,mothers pride,1,0.362,0.159,11,-17.144,1,0.0292,0.97,4e-05,0.119,0.115,158.536,1,2017.0,10.0,george michael,True
+2178,artists stand up to cancer,just stand up!,0,0.562,0.953,7,-1.09,1,0.0833,0.186,0.0,0.679,0.545,176.513,1,2008.0,1.0,artists stand up to cancer,True
+2180,lutricia mcneal,aint that just the way,0,0.741,0.702,7,-7.722,1,0.189,0.0278,0.0,0.094,0.736,173.878,1,,,lutricia mcneal,False
+2182,phantom planet,here i am,0,0.686,0.479,1,-8.99,1,0.0614,0.148,0.888,0.0979,0.105,105.68,0,2006.0,4.0,phantom planet,True
+2194,radio moscow,broke down,0,0.386,0.875,0,-6.823,1,0.101,0.00445,0.00175,0.24,0.792,75.896,0,2009.0,4.0,radio moscow,True
+2195,a+,enjoy yourself,0,0.71,0.87,11,-6.5,0,0.29,0.0125,0.0,0.0667,0.754,101.269,1,1999.0,1.0,a+,True
+2198,rita chiarelli,reginella,0,0.453,0.0639,7,-13.815,1,0.0388,0.872,4.63e-06,0.0887,0.303,91.27,0,2011.0,3.0,rita chiarelli,True
+2201,seether,rise above this,1,0.532,0.829,1,-3.099,1,0.0327,0.011,2.05e-06,0.0802,0.264,120.009,1,2007.0,1.0,seether,True
+2203,martina mcbride,how far,1,0.473,0.59,6,-5.373,1,0.0298,0.359,0.0,0.101,0.334,140.191,1,2012.0,10.0,martina mcbride,True
+2205,cece winans,come on back home,0,0.784,0.445,8,-7.489,1,0.0267,0.409,2.39e-05,0.0679,0.427,96.064,0,,,cece winans,False
+2210,bacilos,sangre americana,0,0.68,0.768,5,-5.255,1,0.0466,0.412,0.0,0.231,0.909,155.951,0,2004.0,9.0,bacilos,True
+2211,4him,wings,0,0.714,0.834,1,-6.324,1,0.0816,0.154,0.00282,0.111,0.86,114.213,0,,,4him,False
+2213,mike bloomfield,junko partner,0,0.546,0.43,3,-12.964,1,0.31,0.614,0.0393,0.21,0.813,81.998,0,,,mike bloomfield,False
+2215,too $hort,cocktales,1,0.838,0.542,1,-6.884,0,0.0951,0.115,0.0075,0.374,0.239,87.094,1,1995.0,1.0,too $hort,True
+2220,the forms,red gun,0,0.747,0.641,11,-8.684,1,0.0275,0.524,0.0276,0.113,0.852,108.932,0,,,the forms,False
+2225,mims,cop it,0,0.74,0.843,6,-3.877,1,0.376,0.267,0.0,0.102,0.868,90.232,0,2007.0,1.0,mims,True
+2241,augustana,boston,0,0.404,0.571,0,-5.069,1,0.0303,0.182,2.08e-05,0.129,0.29,147.01,1,,,augustana,False
+2250,fergie,fergalicious,1,0.904,0.598,8,-7.651,0,0.337,0.0568,0.0,0.111,0.785,129.055,1,2006.0,1.0,fergie,True
+2255,jason & the scorchers,19th nervous breakdown,0,0.297,0.969,2,-4.306,1,0.063,0.00123,0.000305,0.168,0.53,176.366,0,2002.0,1.0,jason,True
+2272,high school musical 3 cast,now or never,0,0.747,0.983,5,-3.883,0,0.181,0.112,0.0,0.706,0.553,114.993,1,2008.0,1.0,high school musical 3 cast,True
+2277,busdriver,unemployed black astronaut,0,0.791,0.685,10,-10.021,0,0.224,0.121,0.0,0.169,0.363,92.988,0,2005.0,2.0,busdriver,True
+2278,deep forest,madazulu,0,0.654,0.879,1,-10.293,0,0.0829,0.0229,0.00428,0.0726,0.784,96.036,0,1998.0,1.0,deep forest,True
+2282,northern state,last night,0,0.896,0.756,6,-7.037,1,0.309,0.201,0.0,0.0701,0.618,97.02,0,2004.0,8.0,northern state,True
+2283,seether,careless whisper,1,0.413,0.943,2,-4.173,1,0.104,5.34e-05,0.00487,0.068,0.328,134.077,1,2007.0,1.0,seether,True
+2284,the black crowes,nonfiction,1,0.608,0.488,5,-7.494,0,0.0227,0.568,3.31e-06,0.114,0.516,81.74,0,1994.0,1.0,the black crowes,True
+2295,50 cent,if i cant,0,0.877,0.64,11,-2.453,0,0.31,0.253,0.0,0.0244,0.887,93.961,1,2003.0,1.0,50 cent,True
+2301,epmd / nocturnal,dungeon master,0,0.641,0.786,6,-6.965,1,0.32,0.00661,0.0,0.0917,0.282,90.395,0,1997.0,9.0,epmd,True
+2304,jonas brothers,paranoid,1,0.635,0.848,10,-4.482,1,0.041,0.00121,0.0,0.13,0.757,120.993,1,2009.0,6.0,jonas brothers,True
+2305,amorphis,into hiding,0,0.249,0.755,8,-9.505,0,0.0381,1.5e-06,0.939,0.0544,0.244,129.394,0,1994.0,9.0,amorphis,True
+2308,u2,sweetest thing,0,0.521,0.651,0,-8.999,1,0.0516,0.0404,1.32e-05,0.16,0.512,141.612,1,,,u2,False
+2310,colombiafrica - the mystic orchestra,sambangole / tres golpes na mas,0,0.35,0.743,0,-7.478,1,0.0564,0.00361,0.0645,0.387,0.586,93.309,0,,,colombiafrica - the mystic orchestra,False
+2311,rihanna,breakin dishes,1,0.801,0.674,8,-4.185,0,0.0311,0.000282,0.000139,0.0914,0.875,125.009,0,2008.0,6.0,rihanna,True
+2317,the black crowes,good morning captain,1,0.318,0.565,7,-12.21,1,0.0358,0.223,0.0,0.715,0.463,131.953,0,2009.0,8.0,the black crowes,True
+2320,brian mcknight,love of my life,1,0.597,0.439,6,-7.364,1,0.0281,0.13,1.35e-05,0.11,0.349,61.904,1,2001.0,1.0,brian mcknight,True
+2332,kekele,affaire mokuwa,0,0.703,0.802,11,-4.771,0,0.033,0.786,0.000802,0.547,0.946,133.202,0,2006.0,1.0,kekele,True
+2339,stevie ray vaughan and double trouble,empty arms,0,0.347,0.78,1,-10.823,0,0.112,0.00525,0.00465,0.299,0.669,147.855,0,,,stevie ray vaughan,False
+2340,carpenters,an old fashioned christmas,0,0.136,0.111,10,-20.732,1,0.0381,0.962,0.00263,0.157,0.0749,54.218,0,,,carpenters,False
+2342,isyss,single for the rest of my life,0,0.721,0.717,6,-8.095,1,0.0394,0.0796,0.00411,0.334,0.805,147.655,1,,,isyss,False
+2344,keb mo,dangerous mood,0,0.627,0.538,5,-9.094,0,0.0344,0.0076,0.00279,0.132,0.352,106.691,0,,,keb mo,False
+2345,maurane / lara fabian,mais la vie,0,0.273,0.262,0,-12.198,0,0.0387,0.84,0.0,0.144,0.316,77.911,0,2003.0,1.0,maurane,True
+2347,luther vandross,take you out,1,0.752,0.575,8,-5.254,1,0.0549,0.077,0.0,0.125,0.569,86.004,1,2001.0,6.0,luther vandross,True
+2354,tum tum,eat or get ate,0,0.695,0.79,11,-3.285,0,0.205,0.014,0.0,0.103,0.697,144.451,0,2007.0,1.0,tum tum,True
+2355,naughty by nature,ring the alarm,1,0.645,0.808,7,-7.068,1,0.374,0.0778,0.0,0.121,0.728,89.003,0,1999.0,4.0,naughty by nature,True
+2359,glee cast featuring gwyneth paltrow,singing in the rain / umbrella,0,0.596,0.74,0,-5.552,1,0.0486,0.00724,0.0,0.357,0.527,88.938,1,2010.0,11.0,glee cast,True
+2365,lil suzy,promise me,1,0.727,0.657,5,-9.577,0,0.0359,0.000203,0.00114,0.0984,0.309,126.011,1,,,lil suzy,False
+2366,mint condition,u send me swingin,0,0.602,0.583,6,-5.886,0,0.0291,0.145,0.0,0.166,0.369,144.029,1,1993.0,1.0,mint condition,True
+2367,hank locklin,let me be the one,0,0.651,0.569,7,-10.222,1,0.0435,0.639,0.0,0.287,0.716,108.678,0,,,hank locklin,False
+2370,seven mary three,cumbersome,0,0.543,0.79,11,-5.932,1,0.0358,0.00811,0.0,0.238,0.339,80.923,1,1995.0,9.0,seven mary three,True
+2375,u2,40,0,0.272,0.684,8,-9.728,1,0.0505,0.0998,0.0145,0.946,0.279,143.079,0,,,u2,False
+2397,selena gomez,tell me something i dont know,0,0.703,0.939,7,-3.314,0,0.177,0.116,0.0,0.0508,0.917,145.024,1,2009.0,1.0,selena gomez,True
+2400,kane,all i can do,0,0.266,0.317,8,-8.912,1,0.0416,0.111,0.000238,0.137,0.169,184.326,0,2005.0,9.0,kane,True
+2402,firehouse,talk of the town,0,0.656,0.747,1,-8.098,1,0.0316,4.11e-05,0.192,0.139,0.958,119.428,0,1992.0,3.0,firehouse,True
+2410,third eye blind,semi-charmed life,0,0.64,0.864,7,-6.576,1,0.0315,0.00832,0.0,0.123,0.7,102.026,1,1997.0,4.0,third eye blind,True
+2415,aesop rock,limelighters (feat. camp lo) / flunkadelic interlude,0,0.544,0.721,10,-7.722,0,0.84,0.18,0.0,0.232,0.723,86.332,0,2003.0,9.0,aesop rock,True
+2418,jazzy jeff & the fresh prince,im looking for the one (to be with me),0,0.766,0.839,1,-3.338,1,0.173,0.00729,0.0,0.319,0.675,97.394,1,1993.0,10.0,jazzy jeff,True
+2420,cassidy,im a hustla,0,0.727,0.913,8,-5.571,0,0.306,0.283,0.0,0.527,0.618,90.985,1,2005.0,6.0,cassidy,True
+2421,u2,discotheque,1,0.581,0.825,4,-9.689,0,0.0373,0.000859,0.095,0.11,0.663,120.362,1,1997.0,3.0,u2,True
+2424,velvet revolver,fall to pieces,0,0.464,0.887,6,-4.65,1,0.0499,0.000429,0.333,0.126,0.23,132.759,1,,,velvet revolver,False
+2426,black eyed peas / les nubians / mos def,on my own,0,0.697,0.677,7,-6.702,1,0.325,0.069,0.000197,0.123,0.386,94.923,0,2000.0,1.0,black eyed peas,True
+2437,u2,the fly,1,0.507,0.934,11,-8.888,0,0.0553,3.52e-05,0.0253,0.161,0.417,108.345,1,1991.0,11.0,u2,True
+2438,dean martin,pennies from heaven,0,0.256,0.102,8,-13.863,1,0.0313,0.95,0.000282,0.208,0.232,62.594,0,2011.0,1.0,dean martin,True
+2439,glee cast,one love (people get ready),1,0.719,0.521,10,-5.661,1,0.0696,0.275,0.0,0.11,0.828,80.534,1,2010.0,11.0,glee cast,True
+2440,aesop rock,n.y. electric / hunter interlude,0,0.474,0.743,6,-9.586,1,0.545,0.252,0.0,0.905,0.776,80.79,0,2003.0,9.0,aesop rock,True
+2441,joe public,live and learn,0,0.745,0.891,11,-9.464,0,0.0746,0.0867,0.0,0.124,0.654,106.641,1,,,joe public,False
+2442,cockney rejects,big time charlie,0,0.242,0.954,9,-2.971,1,0.0757,0.0288,1.75e-06,0.102,0.578,168.313,0,2007.0,5.0,cockney rejects,True
+2450,snowgoons,platoon goons,0,0.604,0.902,5,-4.382,0,0.343,0.00488,0.0,0.38,0.436,96.002,0,2009.0,5.0,snowgoons,True
+2452,roger sanchez,lost,0,0.707,0.747,0,-7.203,0,0.0351,0.0194,0.08,0.0926,0.566,127.983,0,,,roger sanchez,False
+2457,kelly rowland,cant nobody,1,0.797,0.791,6,-6.134,1,0.177,0.0311,0.0239,0.139,0.964,97.373,1,2002.0,10.0,kelly rowland,True
+2459,69 boyz,tootsee roll,0,0.869,0.725,9,-12.507,0,0.256,0.0453,0.0,0.203,0.699,132.989,1,1994.0,5.0,69 boyz,True
+2460,bullet for my valentine,suffocating under words of sorrow (what can i do),0,0.397,0.978,7,-2.256,0,0.133,0.000718,1.47e-06,0.212,0.552,93.538,0,2007.0,6.0,bullet for my valentine,True
+2464,the forms,innizar,0,0.237,0.582,2,-8.348,1,0.0344,0.000784,0.00184,0.112,0.283,91.09,0,,,the forms,False
+2466,rise against,drones,0,0.524,0.995,8,-3.717,1,0.054,0.000111,4.91e-06,0.0561,0.427,104.683,0,2006.0,1.0,rise against,True
+2470,janet jackson,hold on baby,1,0.0,0.578,9,-35.078,0,0.0,0.0591,0.967,0.5,0.0,0.0,0,1993.0,5.0,janet jackson,True
+2474,babylon disco,error,0,0.257,0.797,10,-11.055,0,0.11,0.000142,0.893,0.527,0.0649,179.966,0,2007.0,2.0,babylon disco,True
+2475,sonora carruseles,la chola caderona,0,0.646,0.909,5,-3.508,0,0.0331,0.384,0.127,0.355,0.754,95.942,0,2015.0,7.0,sonora carruseles,True
+2476,seventh star,i versus i,0,0.332,0.906,7,-4.431,1,0.0364,7.77e-06,0.755,0.241,0.579,106.341,0,2007.0,6.0,seventh star,True
+2481,heavy d / mcgruff,wanna be a player,0,0.858,0.738,9,-9.023,1,0.299,0.0977,0.0,0.261,0.734,97.038,0,1997.0,1.0,heavy d,True
+2482,the frequency,stop it,0,0.807,0.776,4,-10.172,0,0.0613,0.00201,0.85,0.0783,0.615,118.012,0,,,the frequency,False
+2483,epmd,give the people,0,0.709,0.591,10,-14.778,0,0.474,0.159,0.00046,0.271,0.802,98.819,0,1990.0,12.0,epmd,True
+2488,train,marry me,1,0.461,0.267,0,-8.514,1,0.0278,0.834,2.03e-05,0.107,0.481,87.918,1,2010.0,12.0,train,True
+2494,dixie chicks,if i fall youre going down with me,0,0.722,0.81,8,-7.463,1,0.0336,0.119,7.13e-06,0.377,0.561,123.272,1,1999.0,8.0,dixie chicks,True
+2500,charanga forever,tumba tumba,0,0.448,0.936,1,-4.694,1,0.0632,0.507,0.0,0.205,0.663,101.945,0,2016.0,5.0,charanga forever,True
+2504,wolfchant,guardians of the forest,0,0.496,0.922,8,-4.951,1,0.0615,7.78e-06,0.841,0.0349,0.6,104.978,0,,,wolfchant,False
+2505,fergie,london bridge,0,0.748,0.63,1,-5.832,1,0.381,0.214,0.0,0.204,0.61,90.889,1,2006.0,1.0,fergie,True
+2509,sting,when we dance,1,0.638,0.342,11,-11.225,1,0.0255,0.706,0.0965,0.0746,0.31,84.009,1,2002.0,1.0,sting,True
+2510,this or the apocalypse,two wars,0,0.119,0.985,9,-4.095,0,0.132,4.36e-06,0.405,0.372,0.0395,165.033,0,2008.0,9.0,this or the apocalypse,True
+2519,dj godfather,intro,0,0.805,0.676,6,-13.333,0,0.234,0.0637,0.000624,0.133,0.665,105.491,0,2000.0,12.0,dj godfather,True
+2523,u2,new york,1,0.66,0.591,7,-8.356,1,0.0324,0.0487,0.0334,0.137,0.587,125.303,0,2000.0,1.0,u2,True
+2529,twin atlantic,what is light? where is laughter? (acoustic version),0,0.566,0.307,9,-5.421,1,0.0463,0.323,0.0,0.133,0.478,141.802,0,2009.0,12.0,twin atlantic,True
+2531,tamia,cant go for that,1,0.668,0.698,11,-7.036,0,0.0714,0.242,6.32e-05,0.06,0.448,106.041,1,2000.0,10.0,tamia,True
+2538,snoop dogg,lets get blown,0,0.927,0.61,9,-4.738,0,0.207,0.399,0.0209,0.267,0.675,105.943,1,2004.0,1.0,snoop dogg,True
+2544,abysmal dawn,compulsory resurrection,0,0.508,0.984,7,-5.762,1,0.151,1.55e-05,0.527,0.0788,0.249,125.159,0,2008.0,5.0,abysmal dawn,True
+2547,epmd,head banger,1,0.659,0.918,11,-3.868,1,0.301,0.0377,0.0,0.298,0.66,96.628,0,2014.0,5.0,epmd,True
+2551,p.o.d.,alive,1,0.409,0.952,2,-3.761,0,0.0756,1.23e-05,0.000156,0.31,0.55,80.899,1,2006.0,10.0,p.o.d.,True
+2553,soilwork,as the sleeper awakes,0,0.49,0.983,7,-5.286,1,0.14,2.18e-05,0.907,0.295,0.307,114.012,0,2007.0,10.0,soilwork,True
+2558,r. kelly,u saved me,1,0.651,0.56,6,-7.012,1,0.053,0.598,0.0,0.0873,0.297,104.045,1,2004.0,8.0,r. kelly,True
+2563,thirty seconds to mars,the kill (bury me),1,0.32,0.927,4,-3.86,0,0.0695,0.00208,0.000862,0.22,0.316,183.007,1,2007.0,1.0,thirty seconds to mars,True
+2564,akon,angel,1,0.567,0.851,2,-2.465,1,0.0322,0.0897,0.0,0.22,0.361,125.887,1,2010.0,1.0,akon,True
+2565,skrape,searching for home,0,0.459,0.4,10,-9.745,1,0.0263,0.114,4.2e-06,0.104,0.127,133.924,0,2003.0,10.0,skrape,True
+2567,radiohead,subterranean homesick alien,0,0.316,0.592,0,-8.916,1,0.0296,0.0498,0.00139,0.103,0.32,150.537,0,1997.0,5.0,radiohead,True
+2568,astarte,thorns of charon (pt. 2) - emerge from hades,0,0.13,0.736,9,-3.245,0,0.129,1.39e-05,0.00136,0.136,0.088,143.448,0,2017.0,9.0,astarte,True
+2569,r. kelly,happy people,1,0.75,0.63,5,-5.511,0,0.0904,0.0623,0.0,0.107,0.722,97.038,1,2014.0,5.0,r. kelly,True
+2572,fall out boy,thriller,1,0.372,0.898,2,-3.338,1,0.118,0.00687,5.6e-06,0.316,0.299,178.829,0,2007.0,1.0,fall out boy,True
+2573,billy gilman,oklahoma,0,0.42,0.268,1,-10.217,1,0.0332,0.484,0.0,0.0892,0.27,138.595,1,2000.0,6.0,billy gilman,True
+2575,glee cast,dont stand so close to me / young girl,1,0.677,0.702,3,-7.319,1,0.0522,0.175,0.0,0.0846,0.791,139.99,1,2009.0,12.0,glee cast,True
+2576,sarah mclachlan,building a mystery,1,0.505,0.518,2,-8.601,1,0.023,0.403,0.0,0.129,0.472,81.019,1,1997.0,8.0,sarah mclachlan,True
+2582,css,music is my hot hot sex,0,0.741,0.717,8,-5.578,0,0.0446,0.016,0.00128,0.0607,0.899,100.012,1,2006.0,7.0,css,True
+2585,blackalicious,rock the spot,0,0.785,0.695,1,-6.434,1,0.22,0.0209,0.0,0.167,0.806,100.476,0,1999.0,1.0,blackalicious,True
+2598,amy winehouse,stronger than me,0,0.881,0.522,0,-4.753,1,0.0372,0.0487,0.000406,0.0637,0.798,91.418,0,,,amy winehouse,False
+2599,claw hammer,succotash,0,0.287,0.911,11,-6.395,0,0.227,0.00228,0.0687,0.209,0.48,149.771,0,2012.0,2.0,claw hammer,True
+2600,gob,no regrets,0,0.494,0.817,2,-5.955,1,0.0586,0.000143,0.00577,0.107,0.627,133.787,0,2001.0,1.0,gob,True
+2609,opiate for the masses,21st century time bomb,0,0.296,0.939,9,-3.171,1,0.241,9.59e-06,0.178,0.0409,0.358,120.033,0,,,opiate for the masses,False
+2611,doyle bramhall,chateau strut,0,0.462,0.779,1,-7.996,1,0.0369,0.0299,0.744,0.125,0.395,147.844,0,2007.0,9.0,doyle bramhall,True
+2615,anthony cruz,make it up,0,0.441,0.706,2,-5.926,0,0.182,0.538,0.0,0.168,0.721,78.251,0,2016.0,4.0,anthony cruz,True
+2616,the escape club,call it poison,0,0.63,0.727,10,-7.256,0,0.0412,0.00237,0.000364,0.29,0.559,110.747,1,,,the escape club,False
+2622,yung berg featuring casha,the business,0,0.63,0.726,7,-5.372,1,0.177,0.00867,0.0,0.0864,0.327,133.317,1,2008.0,8.0,yung berg,True
+2628,harry gregson-williams,sanchez family,0,0.335,0.269,8,-16.433,1,0.128,0.473,0.869,0.113,0.0356,159.997,0,2004.0,1.0,harry gregson-williams,True
+2629,methods of mayhem / scott kirkland,narcotic,0,0.812,0.949,1,-3.016,1,0.194,0.00361,0.17,0.323,0.587,115.996,0,1999.0,1.0,methods of mayhem,True
+2632,estopa,exiliado en el lavabo,0,0.69,0.434,11,-12.579,0,0.035,0.215,1.3e-05,0.0963,0.514,142.852,0,2000.0,7.0,estopa,True
+2635,jewel,standing still,1,0.618,0.647,2,-7.308,1,0.0344,0.115,6.12e-06,0.113,0.315,123.889,1,2001.0,10.0,jewel,True
+2636,michael morales,i dont wanna see you,0,0.677,0.734,7,-9.722,1,0.0287,0.0237,0.0,0.0523,0.726,124.851,1,1991.0,1.0,michael morales,True
+2637,martina mcbride,thanks a lot,1,0.683,0.538,7,-6.956,1,0.0297,0.104,0.0019,0.0595,0.825,167.917,0,2005.0,10.0,martina mcbride,True
+2638,rihanna,dont stop the music,1,0.835,0.669,6,-5.582,0,0.0643,0.0336,6.92e-05,0.0535,0.542,122.668,1,2008.0,6.0,rihanna,True
+2639,rise against,intro/chamber the cartridge,0,0.259,0.994,8,-3.96,1,0.39,0.000359,4.58e-05,0.695,0.175,164.458,0,2006.0,1.0,rise against,True
+2640,every time i die,after one quarter of a revolution,0,0.275,0.989,7,-4.254,1,0.274,0.000481,0.0,0.0913,0.0776,112.458,0,2009.0,9.0,every time i die,True
+2642,jeckyll & hyde,time flies,0,0.741,0.979,7,-6.869,0,0.0639,0.00116,0.69,0.813,0.728,140.005,0,2012.0,3.0,jeckyll,True
+2644,less than jake,short on ideas / one last cigarette,0,0.227,0.971,0,-1.736,1,0.0893,0.00276,0.00155,0.137,0.578,170.649,0,2008.0,3.0,less than jake,True
+2647,in extremo,vollmond,0,0.645,0.898,2,-2.532,0,0.0303,0.00184,0.000328,0.0784,0.227,96.013,0,2001.0,9.0,in extremo,True
+2649,al denson,rain love,0,0.541,0.646,9,-7.841,1,0.0283,0.141,2.38e-06,0.0866,0.481,80.121,0,,,al denson,False
+2651,lady gaga,alejandro,1,0.632,0.789,11,-6.61,0,0.0557,0.00043,0.00144,0.356,0.35,98.986,1,2009.0,1.0,lady gaga,True
+2653,keane,is it any wonder?,0,0.495,0.945,11,-2.789,0,0.0376,5.4e-05,8.82e-05,0.296,0.772,129.386,1,2006.0,1.0,keane,True
+2660,frost,la familia,0,0.833,0.704,4,-7.107,1,0.181,0.0351,0.000309,0.123,0.647,101.407,1,1995.0,10.0,frost,True
+2661,eliane elias,all the things you are,0,0.372,0.0787,5,-26.804,0,0.0455,0.995,0.928,0.121,0.148,139.764,0,1995.0,1.0,eliane elias,True
+2665,radiohead,everything in its right place,0,0.293,0.462,5,-11.412,0,0.0453,0.699,0.0444,0.0954,0.0623,124.004,0,2000.0,10.0,radiohead,True
+2667,paul brown,side steppin,0,0.85,0.669,5,-8.575,0,0.0322,0.182,0.0749,0.333,0.872,113.996,0,2005.0,1.0,paul brown,True
+2670,jennifer lopez featuring styles & jadakiss,jenny from the block,0,0.847,0.754,6,-5.444,1,0.193,0.00804,4.49e-06,0.0517,0.957,100.0,1,2012.0,7.0,jennifer lopez,True
+2676,artists for haiti,we are the world 25: for haiti,0,0.348,0.717,4,-5.634,1,0.0882,0.311,0.0,0.0786,0.28,66.21,1,2010.0,3.0,artists for haiti,True
+2679,los amigos invisibles,nerio compra una contestadora,0,0.599,0.257,11,-20.466,0,0.305,0.971,0.0432,0.111,0.746,88.278,0,,,los amigos invisibles,False
+2680,onerepublic,stop and stare,0,0.49,0.849,4,-4.234,1,0.035,0.0593,0.0,0.082,0.303,92.494,1,2007.0,1.0,onerepublic,True
+2682,glee cast featuring jonathan groff,like a prayer,0,0.544,0.871,6,-5.686,0,0.062,0.197,0.0,0.292,0.311,111.004,1,2010.0,4.0,glee cast,True
+2685,rihanna,only girl (in the world),1,0.78,0.714,11,-4.155,0,0.0382,0.119,4.1e-06,0.217,0.666,125.924,1,2010.0,11.0,rihanna,True
+2686,pascal obispo,la machine,0,0.554,0.875,4,-7.976,1,0.0614,0.0788,3.2e-05,0.954,0.301,130.063,0,2007.0,10.0,pascal obispo,True
+2699,50 cent,u not like me,1,0.803,0.852,11,-1.848,1,0.332,0.0549,0.0,0.0718,0.803,91.577,0,2003.0,1.0,50 cent,True
+2705,reba mcentire,till you love me,1,0.385,0.423,7,-7.912,1,0.0294,0.692,0.0,0.111,0.393,110.549,1,2008.0,1.0,reba mcentire,True
+2708,jimi hendrix,lullaby for the summer,0,0.421,0.926,10,-7.187,0,0.0403,0.0561,0.000759,0.0276,0.94,128.997,0,2010.0,3.0,jimi hendrix,True
+2710,the fever,bye bye betty blue,0,0.251,0.879,10,-3.896,1,0.0821,0.021,0.000616,0.164,0.468,144.56,0,2006.0,5.0,the fever,True
+2714,richie ray & bobby cruz,el gallo y la vaca,0,0.708,0.83,7,-5.187,1,0.0431,0.137,2.49e-06,0.614,0.954,101.734,0,2006.0,2.0,richie ray,True
+2723,glee cast,i want to hold your hand,1,0.484,0.261,7,-10.951,1,0.0267,0.664,1.09e-05,0.17,0.215,78.015,1,2010.0,11.0,glee cast,True
+2724,francis lai,la valse du mariage,0,0.219,0.452,7,-7.001,0,0.0306,0.779,0.96,0.178,0.428,178.261,0,,,francis lai,False
+2725,u2,vertigo,1,0.391,0.831,2,-3.892,1,0.0613,0.000153,0.00192,0.141,0.683,139.946,1,2004.0,1.0,u2,True
+2726,busdriver,(bloody paw on the) kill floor,0,0.768,0.836,6,-5.64,1,0.172,0.175,0.0,0.298,0.731,77.509,0,2007.0,1.0,busdriver,True
+2736,vangelis,el greco: movement iii,0,0.205,0.082,7,-19.806,1,0.0325,0.983,0.891,0.147,0.0757,177.19,0,1998.0,10.0,vangelis,True
+2739,jennifer lopez,waiting for tonight,1,0.694,0.941,10,-6.108,0,0.0408,0.00224,0.0826,0.109,0.854,125.014,1,2012.0,7.0,jennifer lopez,True
+2740,abysmal dawn,programmed to consume,0,0.407,0.986,1,-6.494,1,0.286,0.000364,0.275,0.121,0.111,125.317,0,2008.0,5.0,abysmal dawn,True
+2749,collin raye,"one boy, one girl",0,0.607,0.483,0,-7.294,1,0.0257,0.671,0.0,0.0978,0.252,114.353,1,1995.0,8.0,collin raye,True
+2751,shelby lynne,old times sake,0,0.717,0.184,7,-14.876,1,0.0338,0.57,0.0005,0.0753,0.192,61.14,0,2005.0,1.0,shelby lynne,True
+2759,the frequency,own me,0,0.677,0.679,11,-10.939,0,0.0903,0.265,0.763,0.0735,0.889,76.845,0,,,the frequency,False
+2760,tantric,walk away,0,0.514,0.973,2,-1.992,1,0.0422,0.000221,3.7e-06,0.117,0.871,160.048,0,2009.0,8.0,tantric,True
+2761,crematorium,dying under a binary star,0,0.413,0.942,6,-4.742,0,0.0727,0.000111,0.00269,0.0541,0.372,84.975,0,,,crematorium,False
+2762,lenny kravitz,rock and roll is dead,0,0.36,0.932,2,-7.726,1,0.0565,0.000343,0.0314,0.111,0.805,185.926,1,1995.0,9.0,lenny kravitz,True
+2768,collin raye,someone you used to know,1,0.589,0.369,9,-11.477,1,0.0242,0.123,2.21e-06,0.114,0.295,98.997,1,1998.0,6.0,collin raye,True
+2769,coldworld,schmerzensschreie,0,0.255,0.429,2,-5.255,0,0.0834,0.2,0.92,0.106,0.0376,135.161,0,,,coldworld,False
+2777,black eyed peas / terry dexter,magic,0,0.878,0.775,7,-3.747,1,0.0554,0.0691,4.87e-06,0.0557,0.899,103.635,0,2001.0,1.0,black eyed peas,True
+2778,george michael,amazing,1,0.805,0.754,10,-6.825,0,0.0394,0.0884,1.77e-06,0.117,0.88,128.429,0,2004.0,3.0,george michael,True
+2779,sonora carruseles,vitamina,0,0.675,0.785,5,-8.232,1,0.055,0.391,0.111,0.106,0.745,108.31,0,2015.0,7.0,sonora carruseles,True
+2781,real mccoy,automatic lover (call for love),0,0.688,0.98,5,-4.862,0,0.034,0.0693,0.462,0.16,0.538,132.992,1,2003.0,6.0,real mccoy,True
+2784,!!!,myth takes,0,0.754,0.77,11,-7.83,0,0.0272,0.133,0.747,0.293,0.904,97.109,0,2007.0,3.0,!!!,True
+2787,martina mcbride,when god-fearin women get the blues,1,0.603,0.707,2,-6.215,1,0.0804,0.118,0.0,0.14,0.455,141.837,1,2012.0,10.0,martina mcbride,True
+2795,ashton shepherd,old memory,0,0.468,0.408,3,-5.35,1,0.0284,0.626,2.89e-06,0.114,0.174,128.941,0,2008.0,1.0,ashton shepherd,True
+2797,hole,doll parts,0,0.416,0.53,7,-8.182,1,0.0255,0.161,1.34e-06,0.108,0.379,102.029,1,1994.0,1.0,hole,True
+2798,dora the explorer,mary had a little lamb,0,0.745,0.937,4,-2.563,0,0.0642,0.0701,0.373,0.403,0.94,142.032,0,2008.0,9.0,dora the explorer,True
+2800,gene clark,set you free this time,0,0.592,0.423,2,-12.923,1,0.0264,0.646,0.0,0.0745,0.801,98.545,0,1991.0,9.0,gene clark,True
+2801,amy winehouse,in my bed,0,0.56,0.812,10,-8.769,0,0.062,0.128,8.04e-06,0.0887,0.748,95.588,0,,,amy winehouse,False
+2803,jennifer lopez featuring big pun & fat joe,feelin so good,0,0.738,0.84,10,-7.995,0,0.0606,0.00437,0.00629,0.0807,0.862,107.755,1,1999.0,6.0,jennifer lopez,True
+2809,stevie ray vaughan and double trouble,chitlins con carne,0,0.734,0.398,6,-12.539,0,0.0342,0.0447,0.0967,0.196,0.567,111.788,0,,,stevie ray vaughan,False
+2810,kitaro,trong com,0,0.493,0.137,4,-22.166,1,0.158,0.993,6e-05,0.65,0.64,110.501,0,1993.0,1.0,kitaro,True
+2811,janet jackson,if,0,0.653,0.976,11,-5.173,0,0.0797,0.0374,0.00173,0.561,0.447,105.575,1,1993.0,5.0,janet jackson,True
+2813,luther vandross,the rush,0,0.628,0.932,1,-8.914,1,0.0508,0.000996,0.309,0.0511,0.969,187.925,1,1991.0,4.0,luther vandross,True
+2825,dave valentin,sunshower,0,0.418,0.471,10,-11.197,1,0.0518,0.732,0.103,0.0722,0.342,124.666,0,1999.0,1.0,dave valentin,True
+2827,queens of the stone age,this lullaby,1,0.515,0.202,4,-18.629,0,0.0464,0.922,0.00155,0.1,0.541,158.102,0,2005.0,1.0,queens of the stone age,True
+2828,rita chiarelli,chiove,0,0.329,0.0517,8,-14.781,1,0.0404,0.917,1.65e-06,0.111,0.169,78.724,0,2011.0,3.0,rita chiarelli,True
+2831,captain hollywood project,find another way,0,0.577,0.752,0,-8.664,1,0.0392,0.00548,0.0563,0.422,0.823,158.966,0,1995.0,3.0,captain hollywood project,True
+2835,lit,lovely day,0,0.423,0.933,10,-4.029,1,0.0603,0.000353,0.0,0.125,0.405,134.881,0,1999.0,2.0,lit,True
+2837,naughty by nature,family tree,1,0.852,0.718,11,-3.676,0,0.307,0.0582,0.0,0.167,0.207,92.036,0,2002.0,3.0,naughty by nature,True
+2838,eberhard weber,unfinished self-portrait,0,0.713,0.0405,8,-25.847,1,0.0308,0.903,0.924,0.1,0.518,99.352,0,1993.0,10.0,eberhard weber,True
+2839,truckfighters,traffic,0,0.245,0.856,11,-4.976,1,0.0558,0.129,0.886,0.0893,0.446,147.294,0,2007.0,11.0,truckfighters,True
+2844,arc angels,see what tomorrow brings,0,0.562,0.512,8,-10.096,1,0.0339,0.0588,5.74e-06,0.0989,0.373,126.044,0,1992.0,1.0,arc angels,True
+2845,stevie ray vaughan,crossfire,0,0.477,0.715,8,-7.81,1,0.0329,0.037,0.00852,0.0991,0.891,116.102,0,2002.0,8.0,stevie ray vaughan,True
+2848,masta ace incorporated,sittin on chrome,0,0.863,0.624,1,-10.79,1,0.229,0.00417,0.000836,0.324,0.558,91.069,1,1995.0,1.0,masta ace incorporated,True
+2849,glee cast,losing my religion,1,0.565,0.725,10,-6.442,0,0.0302,0.000393,0.0,0.289,0.625,125.407,1,2010.0,10.0,glee cast,True
+2850,keith sweat,ill give all my love to you,0,0.62,0.514,8,-7.948,1,0.0417,0.431,0.0,0.148,0.453,140.062,1,2004.0,1.0,keith sweat,True
+2851,terror squad / remy / prospect / armageddon,hum drum,0,0.703,0.818,1,-5.12,1,0.314,0.115,0.0,0.14,0.45,89.609,0,2004.0,1.0,terror squad,True
+2852,jan wayne,groovin,0,0.78,0.941,2,-5.459,0,0.0944,0.0611,0.00511,0.0823,0.464,140.014,0,2003.0,9.0,jan wayne,True
+2860,martina mcbride,concrete angel,1,0.622,0.392,1,-9.737,1,0.0253,0.498,0.0,0.146,0.274,77.991,1,2001.0,9.0,martina mcbride,True
+2874,kasia stankiewicz,zolte slonie,0,0.534,0.578,0,-7.283,1,0.0251,0.0472,0.235,0.179,0.179,133.989,0,2006.0,11.0,kasia stankiewicz,True
+2875,susan boyle,wild horses,0,0.23,0.152,8,-13.992,1,0.0353,0.911,0.00493,0.122,0.116,89.475,1,2009.0,11.0,susan boyle,True
+2881,semisonic,gone to the movies,0,0.675,0.323,0,-9.983,1,0.0259,0.504,0.000927,0.0881,0.646,98.121,0,1998.0,3.0,semisonic,True
+2886,coo coo cal,my projects,0,0.803,0.955,6,-3.819,0,0.293,0.178,2.41e-05,0.593,0.814,95.289,1,2017.0,6.0,coo coo cal,True
+2889,tyrese,sweet lady,0,0.588,0.522,9,-6.254,0,0.0383,0.233,0.0,0.24,0.584,66.024,1,1998.0,8.0,tyrese,True
+2893,cradle of filth,summer dying fast,0,0.205,0.95,2,-5.769,0,0.108,0.000925,0.1,0.432,0.0635,97.761,0,,,cradle of filth,False
+2894,queensryche,silent lucidity,0,0.462,0.628,7,-5.659,1,0.0274,0.0534,0.00025,0.12,0.0981,140.049,1,,,queensryche,False
+2899,david nail,red light,0,0.386,0.802,9,-2.468,1,0.0372,0.101,1.11e-05,0.211,0.428,163.907,1,,,david nail,False
+2922,janet jackson,just a little while,1,0.771,0.779,0,-3.571,1,0.0629,0.056,3.36e-05,0.0831,0.972,135.1,1,2004.0,1.0,janet jackson,True
+2926,edward maya & vika jigulina,stereo love,0,0.668,0.749,1,-6.695,0,0.0331,0.0234,0.000298,0.0697,0.128,127.113,1,,,edward maya,False
+2928,candyman,nightgown,0,0.888,0.857,11,-6.741,1,0.0966,0.01,0.00139,0.0169,0.811,127.908,1,,,candyman,False
+2937,arthur tracy,a sailboat in the moonlight,0,0.362,0.172,0,-15.122,1,0.0428,0.982,0.0705,0.153,0.178,67.36,0,2010.0,10.0,arthur tracy,True
+2940,thirty seconds to mars,from yesterday,0,0.467,0.876,10,-4.841,1,0.0693,0.00578,0.00592,0.035,0.131,135.055,1,2005.0,1.0,thirty seconds to mars,True
+2960,sticky fingaz,oh my god,0,0.704,0.815,1,-5.433,1,0.247,0.00756,2.06e-06,0.928,0.435,90.998,0,2000.0,1.0,sticky fingaz,True
+2961,sonny terry,my baby likes to shuffle,0,0.661,0.54,4,-12.85,1,0.0434,0.977,0.75,0.257,0.826,150.207,0,2015.0,3.0,sonny terry,True
+2968,sylver,sympathy,0,0.726,0.781,9,-8.962,0,0.0481,0.185,0.0275,0.182,0.451,138.898,0,2016.0,12.0,sylver,True
+2970,james hunter,class act,0,0.772,0.605,2,-5.958,0,0.0401,0.562,0.0,0.147,0.939,101.867,0,2008.0,1.0,james hunter,True
+2972,50 cent,just a lil bit,1,0.489,0.692,1,-6.672,1,0.41,0.0322,0.00608,0.315,0.527,96.946,1,,,50 cent,False
+2979,sir mix-a-lot,baby got back,0,0.933,0.666,8,-11.277,1,0.308,0.00458,0.0,0.0908,0.635,128.466,1,1992.0,1.0,sir mix-a-lot,True
+2982,b2k featuring fabolous,badaboom,0,0.8,0.644,4,-4.898,1,0.148,0.0215,0.00059,0.0924,0.816,96.015,1,2003.0,11.0,b2k,True
+2985,sophie b. hawkins,did we not choose each other,0,0.649,0.575,11,-8.839,1,0.0316,0.636,0.0,0.253,0.752,146.741,0,1994.0,7.0,sophie b. hawkins,True
+2987,martina mcbride,blessed,0,0.587,0.629,7,-7.439,1,0.0424,0.183,0.0,0.0686,0.425,114.993,1,2001.0,9.0,martina mcbride,True
+2988,wendo kolosoy,marie marie,0,0.579,0.61,7,-8.358,1,0.0326,0.658,0.00527,0.12,0.786,165.611,0,1999.0,1.0,wendo kolosoy,True
+2992,vilma palma e vampiros,verano traidor,0,0.749,0.693,11,-7.087,0,0.038,0.00325,0.000489,0.389,0.719,102.098,0,2003.0,7.0,vilma palma e vampiros,True
+2998,patience dabany,abagui alobi,0,0.578,0.965,5,-4.362,1,0.0985,0.0216,0.0736,0.752,0.805,124.709,0,1990.0,5.0,patience dabany,True
+3013,gorilla zoe,hood figga,0,0.814,0.713,1,-5.089,1,0.107,0.0162,0.0,0.123,0.145,174.264,1,2007.0,9.0,gorilla zoe,True
+3018,michael w. smith,somebody love me,0,0.441,0.538,9,-8.597,1,0.0253,0.241,0.0,0.105,0.302,151.82,1,1993.0,1.0,michael w. smith,True
+3021,jennifer lopez,que hiciste,1,0.641,0.659,2,-7.149,0,0.0857,0.541,6.02e-06,0.162,0.628,116.148,1,2007.0,3.0,jennifer lopez,True
+3023,falco,monarchy now,0,0.646,0.92,6,-6.247,1,0.107,0.0432,6.38e-05,0.414,0.677,94.795,0,2011.0,1.0,falco,True
+3028,jennifer lopez,we gotta talk,1,0.783,0.896,5,-3.942,1,0.0892,0.0253,0.00047,0.112,0.841,132.688,0,2001.0,7.0,jennifer lopez,True
+3030,train,meet virginia,0,0.675,0.553,7,-7.775,1,0.0486,0.0863,7.58e-06,0.118,0.594,90.02,1,1998.0,2.0,train,True
+3038,vhs or beta,you got me (the juan maclean dub),0,0.821,0.948,1,-6.7,1,0.0384,0.107,0.874,0.61,0.607,126.003,0,,,vhs or beta,False
+3041,oldelaf et monsieur d,rue de nantes,0,0.592,0.498,1,-11.6,0,0.399,0.294,0.0,0.951,0.934,110.31,0,,,oldelaf et monsieur d,False
+3045,george michael,jesus to a child,0,0.534,0.415,1,-11.781,0,0.0278,0.314,0.000365,0.0847,0.188,173.561,1,1996.0,5.0,george michael,True
+3050,darwin hobbs,you are god (broken album version),0,0.381,0.382,8,-8.432,1,0.0579,0.702,0.0,0.108,0.244,145.989,0,2003.0,1.0,darwin hobbs,True
+3051,the postal service,we will become silhouettes,0,0.611,0.561,2,-8.33,1,0.0324,0.0682,0.0928,0.12,0.134,155.01,1,2003.0,2.0,the postal service,True
+3059,trey songz,i need a girl,0,0.602,0.785,7,-6.129,1,0.0578,0.245,0.0,0.19,0.565,84.038,1,2009.0,8.0,trey songz,True
+3065,fabolous,you be killin em,0,0.664,0.909,6,-3.552,0,0.22,0.444,0.0,0.525,0.557,93.977,1,2010.0,1.0,fabolous,True
+3071,del tha funkee homosapien,mistadobalina,0,0.85,0.797,10,-7.429,0,0.136,0.0964,8.38e-06,0.34,0.63,99.615,0,2004.0,2.0,del tha funkee homosapien,True
+3072,disturbed,inside the fire,1,0.463,0.962,7,-6.43,1,0.0704,0.000233,0.109,0.0906,0.66,94.003,1,2008.0,4.0,disturbed,True
+3077,every time i die,your touch versus death,0,0.271,0.931,4,-9.761,0,0.0788,0.000233,0.515,0.121,0.145,97.242,0,,,every time i die,False
+3078,weezer,dope nose,0,0.416,0.724,10,-4.87,1,0.0512,0.000336,0.0788,0.247,0.819,127.357,0,2002.0,5.0,weezer,True
+3082,deep forest,sweet lullaby,0,0.566,0.531,11,-16.375,0,0.0413,0.427,0.0196,0.13,0.548,175.965,1,2017.0,11.0,deep forest,True
+3087,sonora carruseles,que suene mi campana,0,0.807,0.873,8,-5.579,1,0.0415,0.211,0.00429,0.18,0.654,100.895,0,2015.0,7.0,sonora carruseles,True
+3089,deep forest,green and blue,0,0.64,0.653,6,-10.349,0,0.0872,0.0484,5.11e-05,0.22,0.548,174.005,0,1998.0,1.0,deep forest,True
+3094,deborah allen,i will always love you,0,0.382,0.14,6,-9.727,1,0.0293,0.771,2.49e-06,0.13,0.186,132.916,0,2008.0,12.0,deborah allen,True
+3097,brasilian tropical orchestra,yesterday,0,0.287,0.288,5,-14.708,1,0.0313,0.418,0.925,0.106,0.0728,80.381,0,,,brasilian tropical orchestra,False
+3098,naughty by nature,written on ya kitten,1,0.887,0.576,7,-15.075,1,0.348,0.0154,0.0,0.263,0.555,93.707,1,1993.0,2.0,naughty by nature,True
+3100,cause and effect,another minute,0,0.633,0.9,11,-10.731,0,0.0345,0.0641,0.000134,0.264,0.961,125.922,1,,,cause,False
+3102,trick pony,pour me,0,0.484,0.905,10,-3.993,1,0.135,0.0936,0.0,0.286,0.767,182.058,1,,,trick pony,False
+3107,irma thomas,we all need love,0,0.694,0.326,3,-10.689,1,0.0446,0.633,0.0,0.245,0.259,130.897,0,1997.0,1.0,irma thomas,True
+3111,zombina & the skeletones,i was a human bomb for the fbi,0,0.318,0.973,2,-6.293,1,0.251,0.00349,0.874,0.226,0.415,189.782,0,2004.0,6.0,zombina,True
+3115,this is hell,realization: remorse,0,0.481,0.708,6,-5.832,1,0.0366,6.85e-05,0.295,0.158,0.0568,124.949,0,2008.0,2.0,this is hell,True
+3119,halfway to gone,turnpike,0,0.348,0.795,11,-5.114,0,0.0466,1.47e-05,0.733,0.0466,0.213,122.529,0,2004.0,4.0,halfway to gone,True
+3120,intex systems,vapour fragments,0,0.463,0.532,6,-14.367,1,0.0497,0.535,0.714,0.141,0.374,182.128,0,2008.0,11.0,intex systems,True
+3126,jason mraz,the remedy (i wont worry),0,0.589,0.867,10,-4.523,1,0.0385,0.04,0.0,0.306,0.795,94.519,1,2002.0,10.0,jason mraz,True
+3136,jennifer lopez,if you had my love,0,0.68,0.625,11,-7.0,0,0.0353,0.0645,5.81e-05,0.109,0.814,94.02,1,1999.0,6.0,jennifer lopez,True
+3140,unk,walk it out,0,0.794,0.777,1,-3.696,0,0.0813,0.0982,0.0,0.202,0.706,160.022,1,2006.0,10.0,unk,True
+3142,wyclef jean,guantanamera,0,0.833,0.431,2,-8.992,1,0.178,0.00195,0.000278,0.124,0.385,87.97,0,1997.0,6.0,wyclef jean,True
+3145,mint condition,call me,1,0.705,0.555,5,-11.269,0,0.0743,0.00131,4.71e-05,0.962,0.583,97.795,0,2018.0,4.0,mint condition,True
+3147,harry gregson-williams,whip fight,0,0.638,0.642,8,-15.477,1,0.0375,0.102,0.561,0.68,0.419,146.03,0,2003.0,1.0,harry gregson-williams,True
+3156,joe rogan,fear factor (shiny happy jihad),0,0.55,0.851,5,-7.492,1,0.932,0.779,0.0,0.908,0.317,105.368,0,2007.0,4.0,joe rogan,True
+3158,fito paez,la ley de la vida,0,0.711,0.769,11,-6.058,0,0.037,0.341,0.0,0.454,0.75,124.946,0,2010.0,3.0,fito paez,True
+3159,kane,rain down on me,0,0.463,0.879,5,-3.456,0,0.0602,0.00116,1.14e-05,0.11,0.334,132.884,0,2003.0,9.0,kane,True
+3162,joey negro,make a move on me,0,0.735,0.819,1,-7.172,1,0.07,0.00291,0.000892,0.0981,0.716,128.298,0,,,joey negro,False
+3164,vilma palma e vampiros,bye bye,0,0.634,0.84,6,-5.933,1,0.0351,0.00168,0.0237,0.207,0.393,97.998,0,2003.0,7.0,vilma palma e vampiros,True
+3166,nelly,n dey say,1,0.867,0.784,0,-4.145,1,0.0379,0.25,0.0,0.152,0.704,97.66,1,2004.0,9.0,nelly,True
+3175,glee cast,last christmas,1,0.63,0.757,5,-6.005,1,0.0254,0.00716,0.0,0.348,0.65,106.885,1,2010.0,11.0,glee cast,True
+3177,the cranberries,linger,0,0.439,0.434,7,-14.918,1,0.0265,0.0783,4.87e-05,0.14,0.204,94.845,1,1993.0,3.0,the cranberries,True
+3180,dragonforce,through the fire and flames,0,0.113,0.951,0,-4.743,0,0.129,0.00176,0.00718,0.334,0.139,200.024,1,2006.0,5.0,dragonforce,True
+3181,u2,electrical storm,1,0.229,0.5,4,-6.769,1,0.0312,0.166,0.000248,0.454,0.185,96.022,1,2002.0,1.0,u2,True
+3186,ashton shepherd,sounds so good,0,0.523,0.897,4,-3.487,1,0.0423,0.291,0.0,0.288,0.634,154.263,0,2008.0,1.0,ashton shepherd,True
+3191,alias,more than words can say,0,0.412,0.376,4,-11.789,1,0.029,0.609,0.00223,0.11,0.153,69.064,1,1990.0,1.0,alias,True
+3192,jason mraz,song for a friend (live from montalvo),1,0.336,0.512,11,-10.912,0,0.0641,0.527,2.24e-05,0.705,0.242,86.492,0,2007.0,2.0,jason mraz,True
+3199,shawn colvin,these four walls,1,0.47,0.506,9,-7.976,1,0.0308,0.49,3.51e-05,0.378,0.376,165.339,0,2006.0,9.0,shawn colvin,True
+3204,dilated peoples,big business,0,0.705,0.852,11,-8.157,1,0.291,0.462,1.93e-06,0.112,0.696,97.254,0,2004.0,4.0,dilated peoples,True
+3223,sixpence none the richer,kiss me,0,0.526,0.749,3,-6.964,1,0.0283,0.023,1.76e-06,0.0692,0.421,99.982,1,,,sixpence none the richer,False
+3224,collin raye,anyone else,1,0.623,0.646,5,-9.888,1,0.0316,0.035,0.0,0.0736,0.492,121.301,1,1998.0,6.0,collin raye,True
+3237,lara,nur eine nacht mit dir,0,0.672,0.777,1,-5.697,1,0.0269,0.0612,0.000841,0.0947,0.606,124.013,0,2009.0,1.0,lara,True
+3238,shapeshifters,chime,0,0.748,0.873,8,-7.068,1,0.0479,5.51e-05,0.915,0.0973,0.344,127.012,0,2008.0,7.0,shapeshifters,True
+3244,akon,over the edge,1,0.526,0.648,5,-5.747,0,0.0366,0.0386,0.0,0.234,0.299,128.007,0,2008.0,1.0,akon,True
+3245,g-unit,poppin them thangs,0,0.768,0.813,6,-1.418,0,0.189,0.252,0.0,0.0839,0.918,88.023,0,2003.0,1.0,g-unit,True
+3260,concretes,souvenirs,0,0.607,0.488,2,-7.632,1,0.0278,0.322,0.0472,0.234,0.488,119.697,0,2007.0,10.0,concretes,True
+3262,open hand,11th street,0,0.199,0.908,10,-4.644,1,0.0795,0.00703,1.89e-06,0.793,0.462,154.59,0,2003.0,1.0,open hand,True
+3264,babylon disco,multiplayer,0,0.627,0.544,11,-17.444,0,0.0525,0.0605,0.189,0.113,0.756,89.976,0,2007.0,2.0,babylon disco,True
+3267,mikey dread,quest for oneness,0,0.78,0.69,5,-10.165,0,0.147,0.0821,0.00308,0.117,0.964,78.907,0,,,mikey dread,False
+3268,joy enriquez,between you and me,0,0.736,0.692,8,-3.815,1,0.0423,0.0778,0.000784,0.0489,0.718,96.104,0,2001.0,3.0,joy enriquez,True
+3269,breaking benjamin,breath,0,0.351,0.869,5,-4.035,0,0.0509,0.00014,0.000206,0.0886,0.355,182.811,1,2006.0,1.0,breaking benjamin,True
+3271,c.j. chenier,banana man,0,0.453,0.617,10,-9.641,1,0.0414,0.262,0.0043,0.379,0.755,111.521,0,,,c.j. chenier,False
+3281,kings of leon,day old blues,0,0.475,0.263,4,-9.783,1,0.0693,0.875,0.0,0.107,0.0693,85.494,0,2004.0,11.0,kings of leon,True
+3282,dishwalla,moisture,1,0.269,0.867,11,-6.945,0,0.0576,3.49e-05,0.494,0.976,0.309,91.036,0,2003.0,8.0,dishwalla,True
+3283,(+44),when your heart stops beating,0,0.42,0.968,9,-2.353,0,0.123,0.000232,0.0,0.0796,0.392,171.004,1,2006.0,1.0,(+44),True
+3285,go west,faithful,0,0.615,0.912,10,-8.028,0,0.0416,0.0323,0.0,0.0966,0.753,105.538,1,1992.0,11.0,go west,True
+3289,open hand,tough guy,0,0.454,0.915,0,-6.188,1,0.0507,0.00019,0.000458,0.685,0.766,143.899,0,2005.0,2.0,open hand,True
+3291,maria muldaur,it feels like rain,0,0.374,0.2,5,-17.175,0,0.0412,0.874,0.00044,0.134,0.13,174.857,0,2000.0,1.0,maria muldaur,True
+3292,richard marx,the way she loves me,1,0.713,0.806,6,-7.262,0,0.0472,0.0473,0.0,0.275,0.863,112.073,1,1997.0,1.0,richard marx,True
+3295,snow patrol,wow,0,0.48,0.923,9,-5.627,1,0.0493,5.7e-05,0.0144,0.0893,0.305,143.002,0,2004.0,1.0,snow patrol,True
+3296,kane,damn those eyes,0,0.26,0.461,10,-11.193,0,0.0569,0.447,0.0,0.147,0.161,167.788,0,2004.0,5.0,kane,True
+3302,dilated peoples,world on wheels,0,0.607,0.841,10,-7.723,0,0.374,0.0054,1.85e-05,0.963,0.69,176.17,0,2004.0,4.0,dilated peoples,True
+3304,rihanna,good girl gone bad,1,0.708,0.553,5,-6.319,0,0.0262,0.0335,0.0,0.101,0.589,94.977,0,2008.0,6.0,rihanna,True
+3305,andreas dorau,das telefon sagt du,0,0.721,0.929,1,-6.511,0,0.0407,0.0161,0.601,0.478,0.263,124.982,0,,,andreas dorau,False
+3316,black debbath,the four big ones (essential authors and works),0,0.363,0.675,0,-5.33,1,0.0322,0.00016,0.00408,0.109,0.349,123.92,0,,,black debbath,False
+3317,super700,the other side,0,0.586,0.716,6,-8.623,0,0.11,0.0999,0.0213,0.131,0.777,160.386,0,,,super700,False
+3320,bebo norman,sunday,0,0.498,0.554,5,-10.709,1,0.0307,0.359,1.54e-06,0.0687,0.315,90.187,0,2006.0,9.0,bebo norman,True
+3323,alexis hk,maudits anglois,0,0.576,0.636,11,-12.549,0,0.151,0.635,0.0,0.305,0.389,79.936,0,,,alexis hk,False
+3336,dora the explorer,travel song (reprise),0,0.826,0.881,2,-6.637,1,0.0593,0.654,0.435,0.0841,0.926,124.026,0,2008.0,9.0,dora the explorer,True
+3342,whitney cummings,porn,0,0.562,0.97,3,-4.279,0,0.885,0.825,0.0,0.801,0.28,121.631,0,2014.0,6.0,whitney cummings,True
+3343,dixie chicks,give it up or let me go,0,0.617,0.905,2,-4.329,1,0.0321,0.119,0.00117,0.77,0.769,103.862,0,1998.0,1.0,dixie chicks,True
+3347,four tet,plastic people,0,0.678,0.737,10,-9.788,1,0.0568,0.298,0.896,0.231,0.408,123.995,0,2010.0,1.0,four tet,True
+3348,grizzly bear,little brother,0,0.269,0.314,4,-13.629,0,0.0291,0.9,0.502,0.582,0.183,84.72,0,2006.0,9.0,grizzly bear,True
+3349,north mississippi allstars,teasin brown,0,0.722,0.861,9,-5.861,1,0.0315,0.158,4.49e-05,0.267,0.914,114.101,0,2005.0,9.0,north mississippi allstars,True
+3353,martina mcbride,this ones for the girls,1,0.613,0.801,8,-4.431,1,0.0354,0.0626,1.15e-05,0.124,0.609,126.966,1,2003.0,9.0,martina mcbride,True
+3357,krs-one,getaway,0,0.428,0.723,8,-5.361,1,0.323,0.0688,0.0,0.258,0.663,85.711,0,2008.0,2.0,krs-one,True
+3361,robert palmer,youre amazing,0,0.511,0.864,7,-11.973,1,0.0569,0.00824,3.89e-06,0.291,0.5,144.952,1,1990.0,11.0,robert palmer,True
+3363,glee cast,lady is a tramp,1,0.326,0.687,10,-3.785,0,0.0531,0.159,0.0,0.341,0.554,200.035,1,2010.0,5.0,glee cast,True
+3367,glee cast featuring kristin chenoweth,home,0,0.266,0.354,5,-6.133,0,0.0318,0.728,0.0,0.123,0.134,106.3,1,2010.0,5.0,glee cast,True
+3368,estopa,me falta el aliento,0,0.53,0.748,0,-9.731,1,0.112,0.204,0.000222,0.338,0.632,124.875,0,2000.0,7.0,estopa,True
+3369,davina,come over to my place,0,0.764,0.314,2,-8.568,1,0.053,0.0522,0.000551,0.0818,0.332,83.969,1,2015.0,5.0,davina,True
+3370,4him,strange way to save the world,0,0.487,0.165,2,-18.339,1,0.0333,0.813,0.0,0.0951,0.335,119.667,0,1997.0,9.0,4him,True
+3374,stille volk,orgasme tellurique,0,0.549,0.73,5,-12.629,1,0.0319,0.348,2.75e-05,0.15,0.817,149.971,0,2003.0,6.0,stille volk,True
+3375,shriekback,reason with the beast,0,0.536,0.603,9,-9.855,1,0.238,0.0151,0.0562,0.161,0.326,150.066,0,2007.0,11.0,shriekback,True
+3376,sting,you still touch me,0,0.668,0.602,7,-8.09,1,0.0221,0.0594,0.0,0.0763,0.657,101.266,1,1996.0,1.0,sting,True
+3377,porcupine tree,waiting,0,0.533,0.437,6,-12.132,0,0.0255,0.00131,0.393,0.0597,0.455,94.019,0,1996.0,6.0,porcupine tree,True
+3380,glee cast,halo / walking on sunshine,1,0.242,0.91,9,-5.19,1,0.113,0.0679,3.38e-06,0.137,0.253,193.886,1,2009.0,10.0,glee cast,True
+3383,c.c. adcock,love n gold,0,0.712,0.635,2,-5.677,1,0.0351,0.00699,0.0238,0.0575,0.772,81.011,0,2004.0,10.0,c.c. adcock,True
+3386,scar symmetry,deviate from the form,0,0.519,0.986,3,-4.238,0,0.0531,6.21e-05,0.000328,0.365,0.452,119.984,0,2006.0,4.0,scar symmetry,True
+3387,dean martin,until you love someone,0,0.304,0.147,3,-16.031,1,0.0313,0.924,0.00846,0.232,0.159,79.89,0,2011.0,1.0,dean martin,True
+3389,sugarland,it happens,1,0.635,0.742,8,-3.77,1,0.0505,0.0071,2.7e-05,0.0774,0.725,89.974,1,2008.0,1.0,sugarland,True
+3390,janet jackson,thats the way love goes,1,0.703,0.7,5,-6.789,1,0.0693,0.302,0.471,0.0718,0.582,97.675,1,1993.0,5.0,janet jackson,True
+3394,weezer,beverly hills,0,0.693,0.823,5,-3.761,1,0.0726,0.0932,0.0,0.328,0.741,87.904,1,2005.0,5.0,weezer,True
+3398,liars,a visit from drum,0,0.686,0.836,11,-9.081,0,0.0355,0.604,0.757,0.049,0.663,126.661,0,,,liars,False
+3399,los van van,appapas del calabar,0,0.577,0.868,5,-4.939,1,0.257,0.308,1.16e-05,0.261,0.666,103.095,0,,,los van van,False
+3404,minipop,fingerprints,0,0.362,0.709,2,-4.86,1,0.0338,0.0232,7.03e-05,0.18,0.246,160.3,0,,,minipop,False
+3406,anthony blea y su charanga,tumba randy,0,0.572,0.857,2,-5.194,0,0.0423,0.255,0.321,0.0369,0.764,100.003,0,2004.0,1.0,anthony blea y su charanga,True
+3417,glee cast,beautiful,1,0.253,0.42,5,-6.241,0,0.0335,0.63,0.0,0.11,0.102,64.967,1,2010.0,5.0,glee cast,True
+3420,patrick bruel,au bout de la marelle,0,0.658,0.667,7,-8.083,1,0.0355,0.0698,3.04e-06,0.0725,0.591,105.999,0,1999.0,4.0,patrick bruel,True
+3421,jason mraz,did you get my message?  (live from shubas),1,0.43,0.525,6,-9.533,1,0.163,0.781,0.0,0.479,0.704,86.805,0,2007.0,2.0,jason mraz,True
+3422,sarah mclachlan,fallen,1,0.485,0.495,2,-7.619,0,0.037,0.579,2.63e-05,0.0857,0.376,149.657,1,,,sarah mclachlan,False
+3425,tamia,so into you,0,0.656,0.479,7,-7.055,0,0.0348,0.0665,0.00272,0.168,0.708,184.374,1,,,tamia,False
+3440,cockney rejects,oi! oi! oi!,0,0.227,0.969,2,-4.115,1,0.111,0.0652,0.0,0.664,0.354,185.747,0,2018.0,11.0,cockney rejects,True
+3443,funeral for a friend,kicking and screaming,0,0.465,0.94,2,-4.096,1,0.0565,0.000554,0.0,0.27,0.503,134.033,0,2009.0,9.0,funeral for a friend,True
+3449,kanye west / lupe fiasco,touch the sky,0,0.597,0.848,9,-4.835,1,0.355,0.0158,0.0,0.374,0.545,106.302,0,2005.0,9.0,kanye west,True
+3460,the offspring,hit that,1,0.707,0.797,11,-3.032,0,0.0317,0.028,0.0,0.0613,0.965,131.95,1,2003.0,12.0,the offspring,True
+3468,steve porter,mindless,0,0.746,0.954,2,-10.101,1,0.073,2.44e-05,0.864,0.0459,0.12,139.013,0,2000.0,3.0,steve porter,True
+3469,cartel,honestly,0,0.449,0.903,1,-4.949,1,0.0388,2.48e-05,0.0,0.133,0.583,144.522,1,,,cartel,False
+3472,keira green,my heart goes up,0,0.62,0.99,0,-7.979,1,0.0427,0.0243,0.00052,0.16,0.685,141.004,0,2006.0,1.0,keira green,True
+3476,jeff wahl,india,0,0.48,0.136,2,-24.682,1,0.0481,0.954,0.908,0.119,0.119,118.6,0,2003.0,12.0,jeff wahl,True
+3485,patti smith,lo and beholden,0,0.748,0.479,2,-7.481,0,0.0248,0.465,1.39e-06,0.108,0.481,97.111,0,2011.0,8.0,patti smith,True
+3488,luther vandross,id rather,1,0.705,0.467,0,-8.456,1,0.0298,0.236,0.0,0.113,0.522,119.938,1,,,luther vandross,False
+3492,john debney,porcelain man,0,0.0724,0.1,0,-36.668,0,0.124,0.744,0.123,0.0968,0.0571,77.825,0,1999.0,1.0,john debney,True
+3496,gary barlow,so help me girl,0,0.55,0.593,10,-6.926,1,0.0292,0.0258,0.0,0.188,0.48,169.979,1,1997.0,9.0,gary barlow,True
+3497,rodney atkins,farmers daughter,0,0.612,0.791,6,-3.519,1,0.0291,0.224,0.0,0.112,0.786,133.977,1,2010.0,6.0,rodney atkins,True
+3501,rise against,state of the union,0,0.59,0.973,10,-3.512,0,0.103,0.00058,0.225,0.501,0.371,132.212,0,2004.0,1.0,rise against,True
+3508,scar symmetry,abstracted,0,0.487,0.99,6,-4.048,1,0.0539,3.04e-05,0.0788,0.292,0.328,97.635,0,2006.0,4.0,scar symmetry,True
+3512,glee cast featuring jonathan groff,total eclipse of the heart,1,0.513,0.662,8,-6.058,1,0.0293,0.195,0.0,0.101,0.261,134.128,1,2010.0,5.0,glee cast,True
+3513,this is hell,reckless,0,0.225,0.926,5,-5.382,0,0.136,3.3e-05,0.00162,0.109,0.411,149.833,0,2008.0,2.0,this is hell,True
+3518,lambda,hold on tight,0,0.782,0.542,10,-14.175,0,0.0345,0.0329,0.721,0.11,0.573,132.889,0,2011.0,7.0,lambda,True
+3519,u2,fez-being born,1,0.256,0.819,2,-7.103,0,0.0422,0.0841,0.107,0.333,0.307,94.008,0,2009.0,1.0,u2,True
+3521,mavado,sadness,0,0.645,0.65,7,-4.848,0,0.166,0.0195,0.0,0.135,0.466,136.106,0,2007.0,7.0,mavado,True
+3527,sarah mclachlan,sweet surrender,0,0.627,0.467,9,-9.81,1,0.0321,0.00286,0.0,0.11,0.61,113.01,1,1997.0,8.0,sarah mclachlan,True
+3533,cabas,como nuestro amor no hay dos,0,0.714,0.864,0,-5.96,1,0.0662,0.585,0.0,0.279,0.81,108.061,0,2008.0,4.0,cabas,True
+3539,camp lo,sparkle,0,0.797,0.59,8,-8.38,0,0.344,0.043,0.0,0.0956,0.555,93.912,0,1997.0,1.0,camp lo,True
+3545,craig morgan,tough,1,0.605,0.386,8,-8.008,1,0.0337,0.553,0.0,0.152,0.148,132.885,1,2006.0,10.0,craig morgan,True
+3554,jocelyn enriquez,a little bit of ecstasy,0,0.496,0.762,6,-7.64,0,0.0628,0.036,0.00199,0.315,0.674,130.004,1,1997.0,5.0,jocelyn enriquez,True
+3563,busdriver,beauty supply and demand,0,0.684,0.916,1,-9.142,1,0.0632,0.215,6.58e-06,0.198,0.62,121.374,0,2004.0,4.0,busdriver,True
+3565,tyrese,lately,1,0.541,0.701,7,-7.287,0,0.102,0.0761,0.0,0.0763,0.334,80.057,1,1998.0,8.0,tyrese,True
+3576,the black crowes,ballad in urgency,1,0.401,0.427,9,-13.391,1,0.032,0.169,0.0138,0.0668,0.2,112.187,0,2010.0,8.0,the black crowes,True
+3581,showbread,nothing matters anymore,0,0.31,0.961,9,-3.794,1,0.0456,0.000396,0.0,0.656,0.234,164.939,0,2009.0,1.0,showbread,True
+3584,the last vegas,another lover,0,0.33,0.974,6,-3.469,0,0.103,3.12e-05,0.000416,0.138,0.471,89.585,0,2009.0,4.0,the last vegas,True
+3586,kings of leon,knocked up,0,0.382,0.688,9,-12.569,1,0.0419,0.268,0.0928,0.184,0.207,121.352,0,2007.0,4.0,kings of leon,True
+3587,total fucking destruction,enslaved by propaganda,0,0.16,0.96,4,-5.53,0,0.0943,3.87e-06,0.871,0.694,0.292,99.514,0,2007.0,5.0,total fucking destruction,True
+3592,ayo,these days,0,0.677,0.796,1,-3.567,1,0.273,0.565,0.0,0.162,0.479,160.066,0,2013.0,10.0,ayo,True
+3596,jennifer lopez,love dont cost a thing,1,0.786,0.842,4,-5.115,0,0.0707,0.00305,3.54e-06,0.473,0.685,97.577,1,2001.0,7.0,jennifer lopez,True
+3604,del amitri,roll to me,0,0.566,0.804,6,-5.783,1,0.0364,0.417,0.0,0.112,0.858,149.989,1,1995.0,1.0,del amitri,True
+3606,martina mcbride with jim brickman,valentine,0,0.538,0.364,1,-8.419,1,0.0245,0.794,2.39e-05,0.129,0.186,95.198,1,,,martina mcbride,False
+3612,u2,mysterious ways,1,0.674,0.659,8,-8.049,1,0.0277,0.00156,0.00765,0.108,0.697,99.768,1,1991.0,11.0,u2,True
+3624,james,laid,0,0.472,0.912,0,-9.415,1,0.0323,0.00224,9.1e-05,0.154,0.749,115.999,1,,,james,False
+3626,nelly,just a dream,1,0.531,0.752,1,-6.161,1,0.0305,0.0421,0.0,0.12,0.103,89.917,1,2010.0,11.0,nelly,True
+3628,kitaro,village attack/ the arrest,0,0.33,0.755,8,-14.048,0,0.0585,0.0794,0.81,0.366,0.342,142.997,0,1993.0,1.0,kitaro,True
+3629,tantric,coming undone,0,0.641,0.936,9,-2.848,0,0.067,0.00103,6.73e-05,0.0875,0.6,140.05,0,2009.0,8.0,tantric,True
+3631,weezer,mykel and carli,0,0.331,0.721,6,-5.881,1,0.0351,0.0263,1.06e-05,0.202,0.39,103.648,0,1994.0,5.0,weezer,True
+3637,portrait,here we go again!,0,0.771,0.745,11,-10.217,0,0.0904,0.0256,0.000374,0.107,0.599,106.709,1,2000.0,1.0,portrait,True
+3639,loudon wainwright iii,human cannonball,0,0.503,0.182,3,-14.824,1,0.0302,0.807,3.8e-05,0.0923,0.293,102.748,0,1995.0,1.0,loudon wainwright iii,True
+3646,the mighty mighty bosstones,pictures to prove it,0,0.413,0.821,9,-6.991,1,0.0638,0.0616,0.0,0.539,0.838,158.891,0,1994.0,1.0,the mighty mighty bosstones,True
+3657,glee cast,over the rainbow,1,0.498,0.352,0,-9.495,1,0.0297,0.842,0.0,0.122,0.472,166.028,1,2010.0,6.0,glee cast,True
+3658,jagged edge,lets get married,0,0.761,0.627,1,-5.554,1,0.0538,0.175,0.0,0.128,0.891,109.821,1,2000.0,1.0,jagged edge,True
+3666,brian tyler,i dream of chi chi,0,0.57,0.0922,0,-18.693,1,0.038,0.91,0.932,0.122,0.397,105.11,0,2009.0,1.0,brian tyler,True
+3673,blaine larsen,how do you get that lonely,0,0.594,0.506,5,-5.487,1,0.0267,0.446,0.0,0.0616,0.268,135.809,1,,,blaine larsen,False
+3678,james newton howard,photographs,0,0.17,0.0151,2,-37.48,0,0.0454,0.973,0.652,0.0698,0.0388,94.373,0,1999.0,1.0,james newton howard,True
+3682,poison,something to believe in,0,0.52,0.711,3,-5.009,1,0.0386,0.266,1.09e-05,0.148,0.226,133.947,1,,,poison,False
+3684,chingy,balla baby,0,0.928,0.643,11,-5.48,0,0.0759,0.0527,0.0,0.0988,0.895,93.006,1,2004.0,1.0,chingy,True
+3687,deborah cox,sentimental,1,0.781,0.644,5,-13.319,1,0.0565,0.0646,0.0,0.0381,0.713,88.909,1,1995.0,6.0,deborah cox,True
+3691,david ball,thinkin problem,0,0.749,0.748,0,-5.783,1,0.0311,0.147,1.51e-05,0.265,0.745,110.437,1,,,david ball,False
+3693,the mars volta,eriatarka,0,0.184,0.956,6,-2.552,0,0.222,0.0262,0.00223,0.54,0.277,158.562,0,2003.0,1.0,the mars volta,True
+3694,kenny rogers,i cant unlove you,0,0.538,0.457,10,-5.876,1,0.027,0.0846,2.76e-06,0.158,0.439,139.827,1,2006.0,1.0,kenny rogers,True
+3696,wyclef jean,something about mary,0,0.755,0.66,5,-6.662,1,0.0537,0.158,7.41e-05,0.121,0.618,95.05,0,2000.0,8.0,wyclef jean,True
+3698,da brat,sittin on top of the world,1,0.793,0.673,7,-5.924,1,0.23,0.0383,0.000294,0.224,0.686,92.965,1,,,da brat,False
+3699,martina mcbride,make me believe,0,0.494,0.737,6,-6.109,1,0.0311,0.0313,0.0,0.0657,0.378,159.583,0,1999.0,2.0,martina mcbride,True
+3701,ozzy osbourne,no more tears,0,0.346,0.749,6,-6.506,1,0.035,0.00167,8.86e-05,0.648,0.315,102.591,1,1991.0,9.0,ozzy osbourne,True
+3702,eliane elias,the beat of my heart,0,0.617,0.127,10,-22.434,0,0.0778,0.868,0.616,0.103,0.696,82.948,0,2000.0,1.0,eliane elias,True
+3705,alison krauss + union station,when you say nothing at all,0,0.509,0.242,3,-13.353,1,0.0291,0.714,0.000365,0.127,0.448,169.642,1,,,alison krauss + union station,False
+3706,dixie chicks,landslide,1,0.571,0.438,2,-7.007,1,0.0279,0.534,1.56e-05,0.187,0.444,145.948,1,2002.0,7.0,dixie chicks,True
+3718,lee ritenour,can you feel it?,0,0.69,0.564,6,-11.13,0,0.0307,0.296,0.747,0.278,0.64,93.908,0,1998.0,1.0,lee ritenour,True
+3719,babylon disco,funk you,0,0.5,0.886,10,-5.706,0,0.14,0.0807,0.0163,0.325,0.466,99.429,0,2005.0,2.0,babylon disco,True
+3721,sunscreem,secrets,0,0.535,0.713,0,-8.776,1,0.141,0.0224,0.0,0.0659,0.651,172.12,0,2009.0,9.0,sunscreem,True
+3723,cheyenne kimball,hanging on,0,0.573,0.934,5,-3.377,1,0.0372,0.0105,7.26e-05,0.318,0.544,118.773,1,2006.0,7.0,cheyenne kimball,True
+3729,cece winans,the wind (tears for you),0,0.636,0.348,11,-8.154,1,0.033,0.775,0.0,0.0575,0.471,124.635,0,,,cece winans,False
+3731,twista,get it wet,0,0.678,0.795,5,-9.313,0,0.0822,0.00781,0.0,0.156,0.55,128.949,1,,,twista,False
+3739,general larry platt,pants on the ground,0,0.836,0.768,6,-5.47,0,0.0969,0.0295,0.0,0.513,0.613,95.025,1,2010.0,2.0,general larry platt,True
+3743,sophie b. hawkins,right beside you,0,0.603,0.885,9,-6.986,0,0.0465,0.209,0.00296,0.0634,0.528,124.964,1,1994.0,7.0,sophie b. hawkins,True
+3746,snowgoons,michael nobody aka poetic death,0,0.589,0.856,1,-5.079,1,0.252,0.279,2.06e-06,0.12,0.47,88.703,0,2009.0,5.0,snowgoons,True
+3747,case,happily ever after,0,0.746,0.615,4,-7.124,0,0.0345,0.191,0.0,0.0861,0.512,120.049,1,1999.0,1.0,case,True
+3754,snow patrol,new sensation,0,0.68,0.373,4,-14.407,1,0.0314,0.528,0.000193,0.0911,0.311,115.029,0,2009.0,9.0,snow patrol,True
+3755,jonas brothers,when you look me in the eyes,0,0.393,0.767,2,-3.685,1,0.0337,0.0269,0.0,0.27,0.506,136.047,1,2007.0,8.0,jonas brothers,True
+3758,trey songz,cant be friends,1,0.451,0.588,11,-7.973,0,0.2,0.0643,0.0,0.171,0.332,171.849,1,2010.0,9.0,trey songz,True
+3764,the sterns,supreme girl,0,0.499,0.924,8,-3.469,1,0.0336,0.00815,0.0,0.3,0.83,157.811,0,,,the sterns,False
+3769,kelly sweet,ready for love,0,0.366,0.467,10,-7.853,1,0.0355,0.78,1.61e-05,0.106,0.0763,129.914,0,2007.0,3.0,kelly sweet,True
+3771,m.i.a.,paper planes,0,0.457,0.854,2,-6.2,1,0.265,0.0277,9.62e-05,0.731,0.485,172.231,1,2007.0,1.0,m.i.a.,True
+3773,mitch ryder,jenny take a ride,0,0.654,0.71,5,-11.723,1,0.0395,0.247,0.0,0.29,0.833,99.702,0,2005.0,4.0,mitch ryder,True
+3775,krs-one,freestyle ministry (server verbals),0,0.89,0.842,1,-3.177,1,0.308,0.125,0.0,0.262,0.865,94.664,0,,,krs-one,False
+3787,lenny kravitz,i belong to you,1,0.69,0.664,5,-7.715,0,0.0542,0.000447,0.0343,0.073,0.63,87.287,1,1998.0,5.0,lenny kravitz,True
+3789,the offspring,defy you,1,0.491,0.841,11,-3.651,0,0.0387,0.000609,2.4e-06,0.131,0.669,92.296,1,2005.0,6.0,the offspring,True
+3791,the ruby suns,function of the sun,0,0.541,0.525,7,-8.878,1,0.0455,0.661,0.758,0.112,0.312,84.962,0,2007.0,1.0,the ruby suns,True
+3794,sugarland,baby girl,0,0.382,0.75,1,-3.251,1,0.0301,0.167,0.0,0.0447,0.593,82.075,1,2004.0,1.0,sugarland,True
+3799,shriekback,squanderer,0,0.495,0.882,8,-5.97,1,0.118,0.0088,0.0378,0.302,0.58,175.242,0,2007.0,6.0,shriekback,True
+3808,from autumn to ashes,sensory deprivation adventure,0,0.47,0.918,10,-5.773,1,0.0507,8.26e-06,0.277,0.395,0.457,92.964,0,2007.0,4.0,from autumn to ashes,True
+3818,epmd,mr. bozack,0,0.536,0.651,6,-11.613,1,0.281,0.0332,0.000114,0.254,0.562,85.646,0,1990.0,12.0,epmd,True
+3833,clubland,hold on (tighter to love),0,0.796,0.688,7,-7.932,0,0.0558,0.00131,0.361,0.0888,0.573,119.768,1,2008.0,3.0,clubland,True
+3836,rita chiarelli,this is my life,0,0.403,0.506,7,-11.785,0,0.0342,0.0027,0.0,0.0854,0.549,179.685,0,1992.0,4.0,rita chiarelli,True
+3837,maxi priest,just a little bit longer,0,0.685,0.678,9,-7.197,0,0.0621,0.00998,0.0,0.0339,0.875,173.219,1,2008.0,1.0,maxi priest,True
+3840,tatyana ali,daydreamin,0,0.882,0.57,1,-7.565,1,0.0832,0.0886,6.54e-06,0.0932,0.815,96.785,1,1998.0,10.0,tatyana ali,True
+3847,enter the haggis,skyswimmer,0,0.276,0.508,3,-10.324,1,0.0399,0.00748,0.000181,0.118,0.249,83.139,0,1999.0,3.0,enter the haggis,True
+3849,athenaeum,what i didnt know,0,0.539,0.93,11,-6.035,1,0.0624,0.0138,0.0,0.0673,0.584,127.454,1,1998.0,4.0,athenaeum,True
+3853,the black crowes,girl from a pawnshop,1,0.349,0.305,7,-12.257,1,0.0305,0.396,1.05e-05,0.14,0.138,114.896,0,2010.0,8.0,the black crowes,True
+3855,yggdrasil,nordfjorloftet,0,0.286,0.316,11,-14.689,1,0.0363,0.547,2.18e-06,0.371,0.374,99.318,0,1999.0,10.0,yggdrasil,True
+3856,pascal obispo,chlore,0,0.535,0.339,5,-13.64,0,0.0315,0.208,0.000884,0.234,0.378,139.816,0,1994.0,9.0,pascal obispo,True
+3861,kitaro,harmony of the forest,0,0.435,0.35,1,-15.103,0,0.0324,0.588,0.102,0.926,0.241,98.595,0,2016.0,8.0,kitaro,True
+3864,kirk franklin,declaration (this is it!),0,0.825,0.852,1,-5.199,1,0.125,0.0146,1.78e-06,0.622,0.493,104.051,0,2007.0,12.0,kirk franklin,True
+3865,doyle bramhall,ooh wee baby,0,0.385,0.654,2,-5.978,1,0.0403,0.014,0.158,0.344,0.222,180.084,0,2007.0,9.0,doyle bramhall,True
+3866,the strokes,meet me in the bathroom,0,0.426,0.94,7,-3.973,1,0.0337,6.7e-05,0.883,0.0772,0.595,139.952,0,2003.0,10.0,the strokes,True
+3870,tara kemp,hold you tight,0,0.739,0.675,1,-9.194,1,0.0444,0.0545,0.0112,0.0632,0.643,100.054,1,,,tara kemp,False
+3882,ub40,higher ground,0,0.799,0.504,2,-12.874,1,0.045,0.074,0.000609,0.118,0.92,101.067,1,1993.0,1.0,ub40,True
+3887,chalk farm,lillie anne,0,0.434,0.685,6,-7.701,0,0.0302,0.000196,0.111,0.11,0.534,95.288,0,1996.0,8.0,chalk farm,True
+3891,busdriver,unsafe sextet/gilded hearts of booklovers,0,0.456,0.869,4,-6.256,0,0.373,0.0597,0.0,0.711,0.249,86.408,0,2009.0,6.0,busdriver,True
+3892,corbin bleu,push it to the limit,0,0.814,0.9,5,-3.318,0,0.0605,0.0112,2.01e-06,0.0631,0.761,125.988,1,2007.0,1.0,corbin bleu,True
+3915,sugarland,all i want to do,1,0.705,0.71,9,-4.894,1,0.0675,0.245,1.69e-05,0.154,0.735,97.031,1,2008.0,1.0,sugarland,True
+3918,gym class heroes,clothes off!!,0,0.761,0.69,11,-5.56,1,0.11,0.0225,0.0,0.34,0.742,114.987,1,2006.0,7.0,gym class heroes,True
+3934,war babies,cry yourself to sleep,0,0.338,0.894,3,-5.804,0,0.0549,0.0149,0.000192,0.196,0.188,165.845,0,,,war babies,False
+3935,tweet,oops (oh my),0,0.66,0.536,10,-8.786,0,0.29,0.233,0.00669,0.111,0.775,159.963,1,2002.0,4.0,tweet,True
+3938,funeral for a friend,building,0,0.419,0.166,3,-14.362,1,0.0316,0.893,0.00225,0.0858,0.3,139.521,0,,,funeral for a friend,False
+3939,funeral for a friend,your revolution is a joke,0,0.425,0.314,6,-10.43,1,0.0295,0.733,1.81e-05,0.127,0.176,148.111,0,,,funeral for a friend,False
+3952,scar symmetry,the illusionist,0,0.404,0.964,2,-3.668,1,0.062,5.58e-05,0.0012,0.137,0.404,75.008,0,2006.0,4.0,scar symmetry,True
+3954,shawty lo,dey know,0,0.428,0.714,8,-5.574,1,0.399,0.0895,0.0,0.766,0.678,110.017,1,2007.0,12.0,shawty lo,True
+3960,george michael,shoot the dog,1,0.719,0.873,7,-7.18,1,0.0895,0.00599,0.00013,0.0873,0.463,111.887,0,2004.0,3.0,george michael,True
+3961,glee cast,you cant always get what you want,1,0.234,0.745,7,-6.017,1,0.0524,0.175,0.0,0.295,0.41,93.825,1,2009.0,12.0,glee cast,True
+3963,adele,chasing pavements,0,0.621,0.473,5,-6.07,0,0.0251,0.312,0.0,0.11,0.325,80.027,1,2008.0,1.0,adele,True
+3970,belinda carlisle,do you feel like i feel?,0,0.574,0.897,2,-6.599,1,0.0387,6.78e-05,1.03e-05,0.256,0.661,122.977,1,2013.0,1.0,belinda carlisle,True
+3972,monty are i,in this legacy,0,0.533,0.981,8,-3.989,0,0.114,0.00149,2.67e-05,0.252,0.39,94.884,0,2006.0,1.0,monty are i,True
+3973,belle & sebastian,stay loose,0,0.718,0.569,0,-7.348,0,0.0345,0.0542,1.35e-06,0.0545,0.633,129.775,0,,,belle,False
+3974,dixie chicks,lullaby,1,0.55,0.205,0,-11.409,1,0.0279,0.762,0.00943,0.112,0.316,109.396,0,2006.0,4.0,dixie chicks,True
+3976,brian mcknight,on the down low,0,0.771,0.693,1,-8.605,0,0.134,0.424,0.000337,0.07,0.706,93.021,1,1995.0,1.0,brian mcknight,True
+3982,kathy mattea,standing knee deep in a river (dying of thirst),0,0.479,0.272,0,-12.446,1,0.032,0.627,3.51e-06,0.136,0.341,132.545,0,2006.0,1.0,kathy mattea,True
+3983,less than jake,fucked,0,0.32,0.781,9,-13.175,1,0.15,0.000827,3.36e-06,0.141,0.575,98.386,0,2008.0,3.0,less than jake,True
+3996,less than jake,automatic,0,0.353,0.975,2,-2.877,1,0.0688,0.000155,2.99e-05,0.0796,0.684,132.628,0,1996.0,1.0,less than jake,True
+3999,bebo & cigala,inolvidable,0,0.57,0.338,2,-11.931,0,0.0526,0.787,0.000306,0.708,0.486,138.844,0,2014.0,6.0,bebo,True
+4009,the clancy brothers,water is alright in tay,0,0.532,0.41,0,-12.39,1,0.0598,0.834,0.0,0.173,0.944,106.445,0,1993.0,2.0,the clancy brothers,True
+4011,sonora carruseles,chela,0,0.723,0.699,1,-10.77,1,0.056,0.427,0.6,0.0841,0.717,105.238,0,2015.0,7.0,sonora carruseles,True
