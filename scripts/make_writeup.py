@@ -108,8 +108,8 @@ def fig_supervised(path):
 
 # ----------------------------------------------------------------------------- text
 TITLE = "HitPredict revisited: predicting Billboard Hot 100 hits from Spotify data"
-TEAM = ("UE24CS352A Machine Learning, Mini-Project, Problem 16. "
-        "Team: [Member 1 Name, SRN] and [Member 2 Name, SRN]")
+TEAM = ("UE24CS352A Machine Learning, Mini-Project, Problem 16<br/>"
+        "Team: Vishnu Patruni (PES1UG24AM187) and Piyush G (PES1UG24AM190)")
 
 S1 = (
     "Our problem is hit song prediction. Given a song's Spotify audio features and whether its "
@@ -395,7 +395,7 @@ def build():
     pdf = OUT / "HitPredict_writeup.pdf"
     doc = SimpleDocTemplate(str(pdf), pagesize=A4, leftMargin=1.55 * cm, rightMargin=1.55 * cm,
                             topMargin=1.3 * cm, bottomMargin=1.3 * cm,
-                            title="HitPredict revisited", author="[Team names]")
+                            title="HitPredict revisited", author="Vishnu Patruni and Piyush G")
     doc.build(story)
     print(f"Wrote {pdf}")
 

@@ -11,6 +11,13 @@ reproduces the reference paper
 re-evaluates it with a fair protocol, compares a range of tuned models and adds improvements of
 our own.
 
+## Team
+
+| Name | SRN | Main responsibilities |
+|---|---|---|
+| Vishnu Patruni | PES1UG24AM187 | Data pipeline, reproduction of the paper's experiments, scoring-bug analysis, feature ablation, experiment runner, write-up |
+| Piyush G | PES1UG24AM190 | Metrics and confidence intervals, split and seasonal analyses, model comparison, improvements, demo app |
+
 ## Results at a glance
 
 All "fair" numbers are on one fixed held-out test set: 1,004 songs by 25% of lead artists, none of
